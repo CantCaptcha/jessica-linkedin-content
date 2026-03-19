@@ -1,7 +1,6 @@
 # Ignore OpenClaw workspace metadata files
 AGENTS.md
 BOOTSTRAP.md
-HEARTBEAT.md
 IDENTITY.md
 MEMORY.md
 SOUL.md

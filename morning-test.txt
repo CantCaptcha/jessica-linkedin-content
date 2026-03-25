@@ -1,0 +1,55 @@
+
+📅 Today's Schedule: 2026-03-04
+
+🌤️ Union, KY: ⛅ 60°F
+
+📋 Bloom Growth Action Items
+   ⏳ Determine AI tools and what we want for the team
+      Due: 03/14/2026 (Due in 10 days)
+
+⚠️  TIME CONFLICTS DETECTED
+
+
+✅ 9:30 AM — 9:55 AM
+   Touch base to discuss the daily effort and answer questions.
+   [United]
+
+⚠️  10:00 AM — 11:00 AM
+   NCAB
+   [United]
+
+⚠️  10:30 AM — 11:00 AM
+   SCRUM - Internal
+   [DCG]
+
+⚠️  10:30 AM — 12:00 PM
+   DCG SLT Meeting
+   [DCG]
+
+⚠️  10:30 AM — 11:20 AM
+   Derek - Special Visiter
+   [United]
+
+⚠️  11:30 AM — 12:00 PM
+   Discuss: B787 TWLU EAPOL Version Compatibility Concerns
+   [United]
+
+⚠️  12:00 PM — 1:00 PM
+   Midwatch PM
+   [DCG]
+
+⚠️  12:00 PM — 12:30 PM
+   Final Touchpoint (go no-go): ODS (BBT)-CFA Cloud migration, 3-5-2026 - Migrate UFLIFOCCO and LegacyCCO processes from ODS to CFA Cloud (CHG0405016)
+   [United]
+
+⚠️  1:30 PM — 2:30 PM
+   DCG SCRUM
+   [DCG]
+
+⚠️  2:00 PM — 3:00 PM
+   Review App CI Changes for 2026 - Boeing GSIS Risk Assessment 2026
+   [United]
+
+⚠️  2:00 PM — 2:50 PM
+   787-9 Hi-J Service Ready Meeting
+   [United]

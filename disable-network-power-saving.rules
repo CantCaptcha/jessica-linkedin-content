@@ -1,0 +1,4 @@
+# Disable power saving for network interfaces
+# This prevents Discord bot disconnections
+
+ACTION=="add", SUBSYSTEM=="net", KERNEL=="enp0s3", RUN+="/bin/sh -c 'echo on > /sys/class/net/%k/power/control'"

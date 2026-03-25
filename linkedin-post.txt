@@ -1,0 +1,28 @@
+Green Doesn't Always Mean Good. Red Doesn't Always Mean Alarm.
+
+As a CIO and now COO, visibility is non-negotiable. But the real question isn't "what are our metrics?" — it's "which metrics actually matter?"
+
+I've spent last 5 years using EOS and Bloom Growth to track KPIs across IT performance, operational execution, and business outcomes. The system gives you that beautiful weekly cadence of green vs red. Simple. Quantitative.
+
+Except I've walked out of executive rooms wondering:
+
+"Why doesn't anyone care that this is red?"
+"Why don't I feel good when everything shows as green?"
+
+Here's what I've learned:
+
+Transparency is table stakes. You have to do it — at multiple levels of business. No exceptions.
+
+Debate metrics with diverse perspectives. The person closest to the KPI is often least able to see it without bias. Get different viewpoints around the table.
+
+Iterate until it creates confidence. KPIs aren't easy. Keep refining until everyone agrees it's exposing something meaningful.
+
+Industry benchmarks are a starting point, not answer. Your company, customers, and economic landscape are unique. Make them yours.
+
+Directionally appropriate beats perfect. Be OK with "good enough" if it drives better decisions than not measuring at all.
+
+If you have more than 10-15 metrics, you're doing it wrong. I remember Monthly Operating Reviews at Citi with 80-100 pages just from my view. Maybe a fifth actually informed decision-making? Don't do that.
+
+Metrics are an art, not a science. The skill isn't measuring. It's knowing which indicators are signals vs. noise.
+
+#Leadership #Operations #COO #EOS #BloomGrowth #Metrics #KPIs #ExecutiveLeadership

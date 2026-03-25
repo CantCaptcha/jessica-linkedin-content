@@ -2,11 +2,12 @@
 # - Script: /home/rwhitaker/.openclaw/workspace/scripts/morning.sh
 # - Shows today's schedule including:
 #   * Local weather (Union, KY)
+#   * Backup status (success/failure of last 3 AM backup)
 #   * Bloom Growth action items with urgency indicators
 #   * Both DCG and United calendars
 #   * Highlights overlapping events
 #   * Filters out personal events and cancelled items
-# - Proactively sent to Richard during daily heartbeat check
+# - Runs automatically at 6 AM daily via cron
 # - Available manually: ./scripts/morning.sh today or ./scripts/morning.sh tomorrow
 
 # Check for JOB REJECT messages in personal Gmail (check daily)
@@ -55,10 +56,11 @@
 When Stevie receives a heartbeat poll:
 1. Read HEARTBEAT.md for checklist
 2. Rotate through checks (2-4 per heartbeat):
-   - Morning calendar (send to Discord #bot)
    - AgentMail unread (auto via cron already)
    - DCG email alerts (auto via cron already)
    - Bloom Growth tasks (auto via cron already)
    - Late-night work events (auto via cron already)
+   - Travel events (check daily)
+   - JOB REJECT messages (check daily)
 3. If anything needs attention, send alert to Discord #bot
 4. If nothing needs attention, reply HEARTBEAT_OK

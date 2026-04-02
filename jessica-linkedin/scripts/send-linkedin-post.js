@@ -2,14 +2,23 @@
 
 const { AgentMailClient } = require('agentmail');
 const fs = require('fs');
+const path = require('path');
 
-const API_KEY = 'am_us_14a4a7ccfbff5ed90374fb30577bdb7562cba20cd12f958fed2b68a43e0b6e52';
+// Load environment variables from .env file
+require('dotenv').config();
+
+const API_KEY = process.env.AGENTMAIL_API_KEY;
 const INBOX_ID = 'stevieai@agentmail.to';
 
 async function sendEmail() {
+    if (!API_KEY) {
+        throw new Error('AGENTMAIL_API_KEY not found in environment variables. Please create a .env file with your API key.');
+    }
+
     const client = new AgentMailClient({ apiKey: API_KEY });
 
-    const text = fs.readFileSync('linkedin-post-jessica-2026-03-27-v2.txt', 'utf8');
+    // Get post text from drafts folder
+    const text = fs.readFileSync(path.join(__dirname, '../drafts/linkedin-post-jessica-2026-03-27-v2.txt'), 'utf8');
 
     const message = {
         to: ["jessica@yea-me.com"],

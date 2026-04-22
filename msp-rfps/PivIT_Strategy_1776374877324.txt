@@ -1,0 +1,362 @@
+MILLAR
+INDUSTRIES
+PROPOSAL
+RESPONSE
+
+Page | 1
+
+704-810-8300
+www.pivitstrategy.com
+630 Sylvania Ave, Suite E
+Charlotte, NC 28206
+
+PivIT Strategy Company Overview:
+PivIT Strategy is a Managed IT Service Provider (MSP) delivering award-winning remote and onsite
+technology services/solutions. Our service coverage area is predominantly throughout the
+Southeast and we have clients as far west as Texas. With a proven 96% customer satisfaction
+rate, we provide tailored IT solutions designed to help organizations operate eKiciently, scale
+securely, and achieve strategic objectives. Our service portfolio spans multiple industries and is
+structured to meet the distinct requirements of each client.
+PivIT Strategy possesses extensive experience supporting complex, hybrid IT environments across
+all platforms. Through proactive monitoring, strategic planning, and continuous optimization, we
+ensure system reliability, minimize downtime, and enhance overall performance. Our goal is to
+serve not only as your dedicated technology support partner but also as your technology trusted
+advisor and procurement resource, aligning technology initiatives with organizational goals and
+long-term business success.
+PivIT Strategy has a perfect Google Rating and is a CRN MSP 500 award recipient, recognizing our
+ability to deliver security-ﬁrst managed services aligned with the operational and compliance
+demands of modern organizations.
+
+Millar Industries - Proposal Request: PivIT Strategy Advanced Managed Solution
+Remote Support Desk & Onsite Escalation Support
+• Unlimited remote support desk
+• Ticketing system, phone support, self-service portal to streamline support
+• Scheduled Patch Management
+• Vendor management
+• Onsite support for escalated issues (as needed)
+Device & Endpoint Management
+• End-User Support for Windows and Apple devices: ConnectWise RMM and Addigy
+Agents
+• Proactive System Monitoring: Auvik for Network, RMM for Endpoint
+• Endpoint Protection: Sentential One Managed Endpoint Detection and Response
+• Email Protection & Spam Filtering: Proofpoint Advanced
+• O365 Email Backup: Dropsuite
+• Endpoint backups: Acronis Backups
+
+Page | 2
+
+Subscription License Administration and Support (include MS O365)
+• First level support to resolve any issues with subscriptions purchased
+• License Procurement and Renewals at preferred CSP Rates
+• O365 User Onboarding and OKboarding
+• License Assessment and Optimization
+• Cost Monitoring and Budgeting
+• Coordinate O365 Upgrades
+
+Cybersecurity
+• 24/7/365 Managed Endpoint Detection and Response - Sentential One Security
+Operations Center
+• Email Protection - Proofpoint Advanced – Advanced Business Email Compromise
+Protection
+• Enforce/manage least-privilege access, enabling users to run approved applications
+without requiring local administrator rights and request/approve elevated requests
+when needed
+• Legal/Audit compliance support- PivIT Strategy vCIO Support
+• System Health Reporting and Risk communication
+• Ongoing Security Awareness Training and Phishing Simulation
+• Continuous vulnerability scanning and prioritized remediation, providing real-time
+visibility into security risks across endpoints and systems
+• Dark Web Monitoring
+Managed Service - Cloud File Storage & Advanced File Systems – Azure/AWS/Egnyte
+• Multi-Platform Cloud File Support - Architect, deploy, and manage secure ﬁle storage
+across Microsoft Azure, Amazon Web Services (AWS), and Egnyte environments.
+• Flexible Cloud & Hybrid Design - Support pure cloud, hybrid, or multi-cloud
+deployments — aligned to performance, compliance, and operational requirements.
+• Secure Collaboration & Access - Role-based access controls, secure ﬁle sharing, and
+seamless collaboration across distributed teams.
+• Enterprise Security & Governance - Encryption, audit logging, retention policies, and
+ransomware protection built into every deployment.
+• Vendor-Neutral Strategy - We design the right solution for your business — not just a
+single platform.
+
+Page | 3
+
+Backup Solutions – SaaS and On Premise - BCDR
+• Backup all data assets with advanced anti-ransomware technologies
+• Error-proof immutable backups
+• Protection for 20+ Workload Types (Microsoft, Google, Amazon, Linux, Apple, Android,
+etc…)
+• Hybrid Cloud Architecture any: protection, workload, storage, deployment, recovery
+• OKsite Cloud Storage, Cloud DR with best-in-industry RTOs with Instant Restore
+• Regular testing of backup quality and restores
+Network Infrastructure Management:
+• Administration and Support of all switches, routers, ﬁrewalls, wireless access points
+and other network devices
+• Proactive support & maintenance of security patches, updates to protect from costly
+downtime, data loss and security breaches
+• 24x7x365 Monitoring with prioritized alerts to ensure continual uptime
+Server Infrastructure Management:
+• Day-to-day Operations and Proactive Maintenance of Servers to Ensure Maximum
+Uptime, Security and Availability
+• Proactive support & maintenance of security patches, updates to protect from costly
+downtime, data loss and security breaches
+• 24x7x365 Monitoring with prioritized alerts to ensure continual uptime
+Strategic IT Partnership
+• Dedicated Engineering Team
+• Dedicated Account Management (supporting ongoing partnership)
+• Quarterly Business Reviews
+• Lifecycle Hardware/Renewals Management
+• Proactive Device Inventory Reporting
+vCIO/CISO Services
+• IT Planning and Decision Making
+• Develop Strategy Roadmap - Build and Deliver Strategy Plans and Budgets on Technical
+Priorities
+• Digital Transformation
+• Establish IT standards/industry compliance for auditing (HIPAA, NIST, Cyber-Security)
+
+Page | 4
+
+Implementation plan outlining key milestones:
+This initiative will be executed through a structured rollout that includes key phases such as
+onboarding, device conﬁguration, proactive monitoring setup, and security integration. Each
+milestone will be designed to ensure operational readiness, minimize disruption, and maximize
+productivity.
+
+Total Implementation Timeline (after approval)- 30 Days from Solution KickoH to
+Go-Live
+Phase 1 Business Review & Pre-Deployment
+Focus Areas: Managed Solution Deployment, Wi-Fi Improvements, Server/Cloud Migration,
+Security Rollouts Responsibility: Customer & Provider Key Milestones / Tasks:
+• Project Team Planning
+• Integration/Onboarding Plan
+• Assign Tasks & Deliverables
+• Contract/Agreement Finalization
+• New Customer Research & Workﬂow Veriﬁcation
+• Welcome Emails & Client Relationship Initiation
+• Existing MSP Communication / Transition Coordination
+Phase 2 Documentation & Assessment
+Focus Areas: Managed Solution Deployment, Wi-Fi Improvements, Server/Cloud Migration,
+Security Rollouts Responsibility: Customer & Provider Key Milestones / Tasks:
+• Initial Documentation & Baseline Discovery
+• In-Depth Network Assessment & Connectivity Validation
+• Firewall & ISP Conﬁguration, VPN Setup
+• Server Documentation & Conﬁgurations
+• Backup & UPS/Racking Conﬁguration
+• LAN Documentation, Router/Switch/WAP Conﬁgurations, Network Diagram
+• Workstation Documentation, Imaging & Pre-Migration Setup
+• Printer/Copier Documentation & Conﬁguration
+Phase 3 Managed Service Tool Deployment
+• Focus Areas: Managed Solution Deployment, Wi-Fi Improvements, Server/Cloud
+Migration, Security Rollouts Responsibility: Both/Internal Key Milestones / Tasks:
+• RMM Deployment & Conﬁguration (Laptops, Workstations, Servers, Networks)
+
+Page | 5
+
+•
+•
+•
+•
+
+Patch Management Deployment
+Sentinel One EDR/MDR Deployment (Workstations & Servers)
+Proofpoint Email Security Deployment & User Communication
+Dropsuite O365 Backup Deployment
+
+Phase 4 Managed Solution Launch / Go-Live
+• Focus Areas: Managed Solution Deployment, Wi-Fi Improvements, Server/Cloud
+Migration, Security Rollouts Responsibility: Both/Internal Key Milestones / Tasks:
+• End User Training & Adoption
+• Onboarding & Guidance
+• Internal New Customer Rollout
+• Final Transition
+Support Process & SLA Model (customer service philosophy)
+At PivIT Strategy, we are committed to delivering exceptional support experience at every level.
+Upon solution acceptance, each client is assigned key resources to ensure seamless service and
+communication. A Dedicated Engineer is assigned to manage and streamline all technical support
+activities, while an Account Manager oversees any needs or issues outside of support. This
+structured approach ensures that all support and non-critical requests are addressed promptly
+and eKectively.
+
+Page | 6
+
+PivIT Strategy: Structured Support Process (Three Options)
+Support Desk Phone: (704) 386-0413
+For immediate or urgent support matters, please contact the Pivit Strategies Support Desk. One of
+our support engineers will be happy to assist you. Availability: Monday-Friday, 7:00 AM to 5:30 PM
+EST
+Email: support@pivitstrategy.com
+For all support-related inquiries, feel free to email us. We'll promptly open a support ticket and
+begin resolving your issue. A member of our team will follow up with you shortly.
+Client Portal Access: https://pivit.myportallogin.com
+You can submit a new Service Request or update an existing one through your client portal.
+Full functionality Includes:
+• Service ticket submission / status / resolutions
+• New employee / termination workﬂow
+• Get status of tickets 24x7x365
+• Pay and view invoices
+• Project and work plan information
+
+Page | 7
+
+Service Level Agreement (“SLA”) Overview
+The following table shows the Guaranteed Response times for each priority level and provides
+priority level examples.
+
+Page | 8
+
+CMMC Alignment & Collaboration Approach
+Overview
+Millar Industries has engaged Defense Security Group (DSG) as its cybersecurity and
+CMMC compliance partner. PivIT Strategy is purpose-built to work in direct alignment with
+DSG, ensuring that all enterprise IT systems, users, and infrastructure fully support CMMC
+Level 1 requirements and integrate cleanly with the Level 2 enclave environment.
+Our role is to ensure that technology, operations, and security controls are executed
+consistently and correctly, enabling DSG to successfully guide Millar through CMMC
+requirements.
+Collaboration with Defense Security Group (DSG)
+PivIT Strategy will act as the operational arm of IT and security, working closely with DSG to:
+• Implement and maintain controls required for CMMC Level 1
+• Support integration points with the Level 2 enclave
+• Execute remediation items identiﬁed by DSG
+• Provide visibility, reporting, and validation of controls
+• Ensure day-to-day IT operations align with compliance objectives
+Our Role in Supporting CMMC Level 1
+We operationalize the technical controls required for Level 1, including:
+• Access Control & Identity
+• MFA enforcement across Microsoft 365 and endpoints
+• Secure user provisioning and deprovisioning
+• Least privilege access enforcement/management
+Endpoint Security
+• Deployment and management of Endpoint Detection Response (SentinelOne)
+• Device hardening and patching
+• Continuous monitoring and response (SOC-backed)
+Email & Data Protection
+• Proofpoint Advanced email security solution (Business Email Compromise
+Protection)
+• Secure conﬁguration of Microsoft 365
+• Data protection and backup enforcement
+
+Page | 9
+
+System Maintenance & Integrity
+• Patch management (OS + third-party)
+• Vulnerability remediation support
+• System health monitoring
+Backup & Recovery
+• Veriﬁed, monitored backups
+• Disaster recovery readiness
+• Ransomware resilience
+Ongoing Operational Support for Compliance
+While DSG provides compliance leadership, PivIT ensures execution and consistency
+through:
+• Implementation of DSG-recommended controls
+• Ongoing monitoring and validation of security controls
+• Rapid response to identiﬁed risks or gaps
+• Support during compliance reviews or audits
+• Documentation support as needed
+Outcome for Millar Industries
+By aligning PivIT Strategy with Defense Security Group:
+• IT operations and compliance eKorts remain fully synchronized
+• CMMC Level 1 controls are consistently implemented and maintained
+• The Level 2 enclave integrates cleanly with enterprise systems
+• Millar avoids the common disconnect between IT providers and compliance ﬁrms
+
+Page | 10
+
+PivIT Strategy: Company Background
+With over 20 years of collective experience in IT Managed Services & Support, PivIT Strategy
+delivers a modern, customer-ﬁrst approach to technology management. Our team of
+seasoned IT professionals brings deep, hands-on expertise, supporting organizations from
+small businesses to Fortune 500 enterprises. We bridge the gap between managed
+services and business aligned IT strategy, helping clients diKerentiate and compete
+through technology.
+Our core business includes Managed Services and Support, Project Consulting, and
+Structured Hardware Procurement, strengthened by deep OEM partnerships. We provide
+tailored solutions across key areas, including Managed Service Desk, Data Center
+Services, Cybersecurity, Business Intelligence, Data Management and Analytics, Software
+Development, Cloud Enablement, and Integration and Divestiture Services, this empowers
+our clients to scale eKiciently, securely, and with conﬁdence.
+At the heart of PivIT Strategy is a commitment to building long-term, mutually beneﬁcial
+relationships. Every engagement is guided by a dedicated account management team
+focused on proactive communication, reliability, and measurable results. This approach
+has earned us repeat business and referrals from satisﬁed clients across Education,
+Religious Organizations, Healthcare, Financial Services, Manufacturing, Legal, and
+Construction industries. Connect with us and experience the PivIT Strategy advantage
+where expertise, strategic partnerships, and a customer-ﬁrst approach to technology come
+together.
+
+Page | 11
+
+PivIT Strategy: References
+Cadence
+Address:
+6325 Audey Kell Road, Charlotte, NC 28277
+Services:
+General Contracting, Mechanical/HVC, Plumbing specializing in Data
+Centers
+Revenue Estimate: Privately held, Estimate $50M
+Contact:
+Seth Rudolf, Chief Financial OKicer
+Phone:
+(704)340-7929
+Email:
+Seth.Rudolph@cadencenow.com
+Website:
+www.cadencenow.com
+Current Services: Full Managed Service and Cybersecurity Client since 2022
+Highlights: In addition to providing MSP/cybersecurity services, we have strategically
+assisted Cadence through multiple company divestitures, ERP selection/implementations,
+website rewrites, 100% conversion from on premise server to Azure and cloud solutions.
+They are also a Digital Marketing client.
+Airwavz Solutions
+Address:
+1410 W Morehead St, Charlotte, NC 28208
+Services:
+In building, wireless solutions
+Revenue Estimate: Privately held, $35M Estimate
+Contact:
+Anthony Good, Director of Information Technology
+Phone:
+(484)629-5699
+Email:
+Anthony.Good@airwavz.com
+Website:
+www.airwavz.com
+Current Services: Full Managed Service and Cybersecurity Client since 2023
+Highlights: In addition to providing MSP/cybersecurity services, we have strategically
+assisted Airwavz through multiple strategic projects including AI assessments and
+implementations, new website functionality, and Privileged Access Management.
+
+Peabody Engineering
+Address:
+230 Financial Boulevard, Liberty, SC 29657
+Services:
+Manufacturer of Plastic Tanks, Pump Enclosures and other various products
+Revenue Estimate: Privately held, $45M Estimate
+Contact:
+Lisa Higgins, VP of Human Resources (IT POC)
+Phone:
+(864)357-8077
+Email:
+Lisa.H@4peabody.com
+
+Page | 12
+
+Website:
+www.4peabody.com
+Current Services: Full Managed Service and Cybersecurity Client since 2025
+Highlights: In addition to providing MSP/cybersecurity services, we have strategically
+assisted Peabody Engineering through an oKice shutdown and a major server
+replacement/implementation to South Carolina oKice. Implemented a new Ring Central
+phones system. We have assisted them with determining ERP upgrade from on premise
+solution to the cloud.
+PivIT Strategy: Pricing Structure
+At PivIT Strategy, we believe in keeping services and support simple and transparent. Below
+is our structured pricing model outlines the Managed Solution, designed to deliver
+comprehensive support, operational eKiciency, and security for total peace of mind.
+For Full breakdown of charges please see attached PivIT Strategy MSP Agreement
+PivIT Strategy
+
+Page | 13
+
+

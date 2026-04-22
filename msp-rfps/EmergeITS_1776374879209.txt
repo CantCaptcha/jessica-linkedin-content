@@ -1,0 +1,1716 @@
+Managed Service Provider (MSP) Support
+Submitted to:
+Millar Industries
+
+Submitted by:
+Emerge IT Solutions
+7660 Turfway Rd
+Florence, KY 41042
+(859) 746-1030
+www.emergeits.com
+
+Submitted: April 14, 2026
+Proposal Valid Through: May 31, 2026
+Primary Contact:
+Jesse Kegley
+jkegley@emergeits.com
+(859) 538-3111
+
+April 14, 2026
+Re: Response to Request for Proposal – Managed IT Services
+Dear Millar Industries Evaluation Team,
+Thank you for inviting us to participate in your Managed IT Services RFP process. We deeply
+appreciate Millar Industries’ clear priorities: ensuring reliable technology for manufacturing operations
+and office teams, maintaining robust cybersecurity aligned to CMMC compliance, delivering
+responsive and accountable support, and building a true long-term partnership—one that is engaged
+and proactive in supporting your leadership and vision.
+We want to be transparent: our proposal may not reflect the lowest cost option. This is intentional, as
+we believe the greatest value in IT is realized not just through the monthly invoice, but by minimizing
+downtime, reducing security risks, and preserving productivity and leadership focus. Our approach is
+designed to support Millar Industries’ goals by proactively addressing these areas, so you can operate
+with confidence and peace of mind.
+How Our Approach Supports Millar Industries’ Objectives:
+Adherence to Industry Standards, Independently Validated. Our designation as a Cisco Gold
+Service Provider reflects our ongoing commitment to best practices and operational excellence. This
+independent accreditation, along with our cybersecurity insurance partnership with Converge, ensures
+that our processes and controls are continually reviewed and externally validated—giving you
+confidence that we meet rigorous industry standards, not just our own.
+Integrated Cyber Insurance Readiness. Through our relationship with Converge Insurance, Millar
+Industries will have access to ConvergeConnect™—a cyber insurance program brokered by Amwins.
+This means you benefit from streamlined underwriting, potential cost advantages, and quicker access
+to coverage. Our managed services have already been vetted by a leading insurance provider,
+helping to ease your compliance burden as requirements evolve.
+Scalable Solutions for a Growing Business. Our service architecture is designed to deliver stability
+today with the flexibility to support your future growth—always maintaining the standards required for
+your industry and risk profile.
+Proven Results When It Matters Most. Our track record includes real-world success stories, such as
+a ransomware recovery in which we restored the majority of a manufacturing client’s operations within
+three days—helping them avoid paying ransom and mitigating millions of dollars in potential
+downtime. These experiences demonstrate our ability to deliver when challenges are most critical.
+This proposal is tailored to provide the service level we believe will best support Millar Industries’
+environment and risk profile. We also offer flexibility to adjust our engagement as your needs evolve,
+ensuring our partnership continues to align with your changing priorities.
+
+At Emerge, we understand that Millar Industries is seeking a partner to help reduce risk, streamline
+decision-making, and ensure technology empowers your teams on the manufacturing floor, in the
+office, or on the road. We are ready and eager to earn your trust as that partner.
+Sincerely,
+Jesse Kegley
+Emerge IT
+859-538-3111
+
+Table of Contents
+Executive summary.................................................................................................................................. 5
+Scope of Required Services ..................................................................................................................... 7
+A. End-user & Helpdesk Support.....................................................................................................................7
+B. Endpoint & Patch Management ..................................................................................................................9
+C.
+
+Cybersecurity Services............................................................................................................................11
+
+D.
+
+Server & Infrastructure Management ..................................................................................................13
+
+E.
+
+Network & Connectivity .........................................................................................................................14
+
+F.
+
+Microsoft 365 Administration ................................................................................................................15
+
+G.
+
+Line of Business Application Support ...................................................................................................17
+
+H.
+
+Data Backup & Disaster Recovery ........................................................................................................17
+
+I.
+
+End User Onboarding & Offboarding ..................................................................................................18
+
+J.
+
+vCIO / Strategic IT Leadership .............................................................................................................19
+
+Pricing & Assumptions .......................................................................................................................... 22
+Service Levels & Reporting ................................................................................................................... 27
+Vendor Qualifications ........................................................................................................................... 29
+Emerge References ................................................................................................................................ 30
+
+Executive summary
+Millar Industries is seeking a long-term IT partner that goes beyond reactive support—one that
+operates as an extension of internal leadership, proactively manages risk, communicates clearly with
+non-technical stakeholders, and maintains a stable, dependable technology environment. Emerge
+proposes OmniWATCH Pro as a comprehensive, standards-driven managed services program
+designed to prioritize network stability, reduce outage risk, and strengthen cybersecurity while
+providing clear operational visibility and accountability.
+Millar Industries operates a hybrid on-premises and cloud environment supporting business
+operations across multiple locations and teams. With no full-time internal IT staff, predictable
+performance, fast response, and disciplined execution are mission-critical. OmniWATCH Pro is built
+for organizations that require consistent day-to-day operations and proactive risk reduction—without
+the overhead of building and staffing an internal IT department.
+OmniWATCH Pro delivers a unified operating model that combines end-user support, infrastructure
+management, cybersecurity, and Microsoft 365 administration under a single accountable framework.
+Support is provided through a tiered service desk model with defined SLAs, live-answer intake, and
+clear escalation paths to senior engineering resources—helping restore service quickly and prevent
+repeat incidents that lead to recurring outages.
+The primary operational driver of OmniWATCH Pro is network stability and outage prevention.
+Endpoints, servers, network devices, and cloud services are continuously monitored, patched, and
+maintained against defined standards to reduce unplanned downtime and service disruption.
+Cybersecurity controls—including managed antivirus/EDR, MFA enforcement, dark web monitoring,
+user awareness training, and structured incident response coordination—are embedded into daily
+operations to reduce exposure while improving response readiness.
+Emerge also recognizes that Millar Industries leadership requires clear, business-level
+communication, not technical noise. OmniWATCH Pro includes structured reporting, shared
+dashboards, and a vCIO-style engagement model that connects operational data to business
+outcomes—especially stability, continuity, and risk reduction. This governance cadence supports
+budgeting, lifecycle planning, and decision-making based on measurable health indicators rather than
+reactive, ticket-by-ticket firefighting.
+Compliance responsibilities are addressed explicitly. Millar Industries retains ownership of CMMC
+compliance (policy decisions, process adherence, user behavior, and overall attestation), while
+Emerge supports implementation and operational evidence through managed controls, reporting, and
+documentation. For environments requiring a DCG Level 2 enclave, the boundary is defined as the
+systems, identities, networks, and cloud resources designated for Controlled Unclassified Information
+(CUI) handling; only assets inside that enclave are configured and managed to DCG Level 2
+requirements. OmniWATCH Pro supports establishing and maintaining those enclave boundaries
+
+(segmentation, access controls, device compliance, monitoring, and reporting) so compliance scope
+is clear, auditable, and operationally sustainable.
+In summary, OmniWATCH Pro provides Millar Industries with a stable and secure IT foundation—
+backed by disciplined operations, proactive risk management, and leadership-level partnership—so
+critical network and technology services remain available, issues are prevented when possible, and
+outages are resolved quickly when they do occur.
+
+Scope of Services
+A. End-user & Helpdesk Support
+OmniWATCH Pro includes standard helpdesk support aligned to Millar Industries defined business
+hours (7:00 AM - 5:30 PM ET business days), with after-hours support available for emergency
+scenarios such as lost devices, security incidents, or critical system outages. Support is delivered via
+phone, email, and remote tools, with clear escalation paths to senior engineers and service
+leadership.
+Helpdesk Model
+The Emerge service desk is built to reduce friction for end users and accelerate resolution through a
+human-first, live answer approach. When a user reaches out by phone, our goal is to have a live
+person respond quickly, capture the issue clearly, and begin troubleshooting immediately rather than
+routing callers into long automated menus or delaying engagement. This approach improves first
+contact resolution, strengthens user confidence, and ensures priority issues are identified and acted
+upon rapidly.
+•
+
+Dispatch (Intake & Triage): First point of contact for phone/email submissions. Dispatch
+validates user details, gathers symptoms and impact, assigns priority, and routes the request
+to the right resource.
+
+•
+
+Tier 1 Helpdesk (Rapid Resolution): Handles common end-user issues such as password and
+account support, Microsoft 365 application assistance, basic device troubleshooting,
+printing/peripherals, and standard access requests. Tier 1 focuses on fast restoration of
+productivity and clear communication.
+
+•
+
+Tier 2 Helpdesk (Advanced Troubleshooting): Engages when issues require deeper
+investigation, configuration changes, cross-system troubleshooting, or more specialized
+knowledge (e.g., complex Microsoft 365 issues, endpoint management interactions, recurring
+problems, or multi-user impact). Tier 2 may coordinate with vendors or customer IT contacts
+as needed.
+
+•
+
+Escalation to TechOps (Technical Operations, including Tier 3 Engineering): TechOps is the
+escalation point for complex or high impact reactive support that requires environment level
+analysis, stabilization, and advanced engineering/root cause remediation. TechOps also leads
+Emerge’s proactive management programs—including enforcement of configuration
+standards, monitoring and alert response, configuration drift management, and ongoing
+operational improvements.
+
+This tiered model ensures tickets are handled by the right level of expertise as quickly as possible,
+while maintaining a clear and accountable escalation path for urgent or complex issues. It also
+ensures that reactive support and proactive management remain connected—so recurring issues,
+
+security risks, and operational gaps identified through the helpdesk translate into measurable
+improvements through TechOps led operational programs.
+Support Hours & Coverage
+Emerge offers flexible support options to meet organizational needs:
+•
+•
+•
+
+Standard Support: 7:00 AM - 5:30 PM ET, Monday through Friday
+Extended Coverage: 24/7/365 support available as Time & Materials or as an enhanced
+service tier
+On-site remediation is provided when remote escalation is insufficient, to locations within a 50mile radius of Emerge HQ. On-site remediation provided outside of this radius may be subject
+to pre-approved, out of scope billing.
+
+Ticketing Platform & Workflow
+Emerge uses ConnectWise as its ITSM and ticketing system, enabling a shared ticketing platform to
+be used by Millar Industries and Emerge:
+•
+•
+•
+•
+•
+
+Streamlined ticket intake
+Automated routing by category and priority
+SLA tracking and service quality measurement
+Seamless escalation to advanced engineering resources
+Transparent communication throughout the lifecycle of a ticket
+
+Hardware and Peripheral Support
+These items are subject to the same ticketing procedures, SLAs, and response times as above.
+Emerge will create and store SOPs for the support of these devices to ensure efficient and consistent
+resolution with vendor coordination where third party maintenance applies.
+Software License Management
+For subscriptions procured through Emerge (including Microsoft licensing), we maintain centralized
+license records, assignment visibility, and renewal dates. We provide proactive renewal notifications
+and recommend adjustments based on staffing changes and usage patterns to reduce licensing drift
+and support cost control. Emerge’s tracking and renewal management applies to
+licenses purchased through Emerge. We can provide guidance for externally procured subscriptions,
+but full tracking and renewal execution may require additional access, coordination, or separate
+scope.
+Application Vendor Coordination
+Emerge will support third-party vendor applications under the following framework:
+
+•
+
+•
+
+•
+
+•
+
+Vendor Support Requirement: All Line of Business (LOB) applications must be current and
+backed by an active vendor support program to ensure proper escalation and resolution
+pathways.
+Issue Triage & Vendor Coordination: Emerge will perform initial triage to identify whether
+issues are environmental or application-specific. When vendor intervention is required,
+Emerge collaborates directly with the vendor as needed, supplying logs, system information,
+and secure access to facilitate resolution.
+Documented Escalation Procedures: Emerge works with the customer to define and document
+escalation paths for all business applications. These procedures are maintained in our IT Glue
+documentation platform to ensure clarity and consistency for all parties.
+Application-Level Support Exclusion: Emerge does not provide direct application-level
+troubleshooting, data corrections, code-level work, or workflow consulting. These
+responsibilities remain with the software vendor.
+
+This structure ensures customers receive reliable, environment-level support while retaining proper
+vendor accountability for application functionality.
+
+B. Endpoint & Patch Management
+OmniWATCH Pro includes proactive, policy-driven management of endpoints using an enterprise
+suite of Remote Monitoring & Management (RMM) tools. This allows us to reduce risk, standardize
+configurations, minimize user disruption, and provide auditable results with clear KPIs. Emerge will
+make available a real-time, web-based dashboard providing ultimate visibility into status and
+compliance.
+Windows OS Updates and Patch Management
+•
+•
+
+•
+
+•
+
+Coverage: Security, cumulative, feature, and driver updates for supported Windows versions
+(workstations and servers).
+Cadence and targets:
+o Standard patches: ≥95% compliance within 14 days of vendor release.
+o Emergency/zero-day: targeted deployment within 48 hours of release or confirmed
+exploitation advisory.
+o Feature updates: scheduled by policy (e.g., semi-annual) following validation.
+Ring-based rollout and safety:
+o Ring 0 (pilot ~5%) → Ring 1 (~25%) → Ring 2 (~70%) after validation and no material
+issues.
+o Maintenance windows and reboots: after-hours windows with user notifications; servers
+coordinated via approved change tickets.
+o Testing/rollback: pre-deployment checks, hold/recall procedures, rollback where
+supported, recovery via validated backups/restore points.
+Exceptions: documented per device/app with owner, business justification, compensating
+controls, and expiry; reviewed monthly.
+
+Microsoft Office and third-party patching
+•
+•
+
+•
+
+•
+•
+
+Scope: Microsoft Office and a catalog of common third-party applications delivered via the
+enterprise patch platform.
+Cadence and targets:
+o Standard application patches: ≥95% compliance within 14 days.
+o Emergency security updates: prioritized deployment within 48 hours for critical
+CVEs/active exploitation.
+Packaging and delivery:
+o Silent installs, user-friendly prompts; suppress duplicate auto-updaters when centrally
+managed.
+o Version pinning/controlled deferral for line-of-business compatibility.
+Rollout, windows, testing, and exceptions follow the same ring-based approach as OS
+updates.
+Emerge will provide patching for the following third-party software: Adobe Acrobat Reader,
+Adobe Flash, Adobe Shockwave, Oracle Java, iTunes, QuickTime, Safari, Google Chrome,
+Mozilla Firefox and Thunderbird, PDF Creator, Skype for Business
+
+Next Generation AV / Endpoing Detection and Response
+•
+•
+
+•
+
+•
+•
+
+Platform: next-gen AV / Endpoint Detection & Response (EDR) deployed and managed across
+all supported endpoints (workstations and servers).
+Coverage and health targets:
+o 100% endpoint AV/EDR coverage with tamper protection enabled.
+o Definitions updated daily (or real-time cloud); agent/engine updates within 30 days of
+stable release.
+o Policy compliance ≥98% of managed endpoints reporting healthy status within the last
+72 hours.
+Policy and response:
+o Baseline policies for real-time protection, behavioral/ransomware prevention,
+removable-media controls, and web threat mitigation.
+o Automated quarantine/remediation; ability to isolate compromised endpoints.
+o Tuning to reduce false positives; documented time-bound exceptions.
+Reporting: monthly coverage and health, detections, time-to-contain/remediate, and
+outstanding actions.
+Direct escalation to the Emerge Customer Security Event Plan (CSEP) upon confirmation of
+critical security events.
+
+Device inventory management and documentation
+•
+•
+•
+
+Continuous discovery: enterprise RMM maintains authoritative asset inventory and
+configuration baseline.
+Tracked attributes: device identifiers, ownership, location, OS build, hardware specs,
+encryption status, last check-in, patch level, installed software, AV/EDR status.
+Accuracy and lifecycle targets:
+
+≥98% of managed endpoints report within 72 hours; stale devices flagged for
+remediation.
+o Onboarding within 5 business days of device receipt; decommissioning with data
+sanitization and record archiving within 5 business days of request.
+Documentation and exports: CMDB-ready records with role/ring tags and change history;
+monthly exportable inventory and software lists for audit/license reconciliation.
+o
+
+•
+
+Governance, reporting, and communications
+•
+•
+•
+•
+•
+
+Documented patching policy, ring-based rollout plan, and maintenance window schedule.
+Exceptions register with approvals and compensating controls.
+Monthly KPI report (patch compliance, AV/EDR health, incidents) and asset inventory export.
+Documented rollback and recovery plan for failed patch updates.
+Published patch calendar and maintenance windows, advance end-user notifications for
+impactful changes and reboots outside of standard windows.
+
+C. Cybersecurity Services
+OmniWATCH Pro offers a structured cybersecurity program that reduces business risk through
+consistent controls, visibility, and response readiness. The program meets cyber insurance
+underwriting standards, helping minimize exposures and improve insurer relationships. It follows the
+NIST Cybersecurity Framework (CSF), ensuring a comprehensive approach to risk management by
+consistently applying its core functions: Identify, Protect, Detect, Respond, and Recover. This
+supports governance, endpoint protection, identity management, and user education, enabling
+proactive threat management, industry compliance, and strong controls for stakeholders. The NIST
+CSF drives continuous improvement and benchmarking of your security posture.
+OmniWATCH Pro is structured to support organizations operating within the Defense Industrial Base
+(DIB) by aligning day-to-day Enterprise IT operations with CMMC Level 1 requirements. Under this
+engagement, Emerge assumes responsibility for assisting in the implementation, monitoring, and
+documentation of applicable Level 1 controls across the Enterprise environment, including identity
+management, endpoint protection, patching, logging, backup, and incident response coordination.
+CMMC Level 2 requirements are explicitly out of scope for OmniWATCH Pro and are expected to be
+met through the DCG-provided enclave. Emerge will collaborate closely with DCG to ensure clear
+responsibility boundaries, coordinated remediation where Enterprise dependencies exist, and
+audit-ready documentation that supports DCG’s enclave activities without duplication or conflict.
+Managed Antivirus (next-gen AV/EDR)
+OmniWATCH Pro establishes both traditional antivirus and Endpoint Detection & Response (EDR)
+through a single, unified endpoint security solution. This approach pairs signature-based prevention
+with behavioral detection and active response capabilities—providing broader protection, faster
+containment, and simpler management than running separate AV and EDR tools. The solution
+includes 24x7x365 monitoring and response via a third-party SOC provider.
+
+Managed Detection & Response (MDR)
+Managed Detection & Response (MDR) is available as an optional add-on to OmniWATCH Pro for
+organizations that want 24x7 security operations support beyond endpoint protection. For many
+environments, the EDR capabilities included with OmniWATCH Pro provide sufficient detection and
+response coverage. When MDR is desired, Emerge scopes and tunes the service to the customer’s
+specific environment (users, endpoints, network, identity, cloud footprint, and business workflows).
+This requires deeper discovery than an RFP typically allows so we can right-size the solution—
+ensuring appropriate investment without over-spending.
+Multifactor Authentication (MFA)
+Emerge will enforce multifactor authentication (MFA) across key systems and applications with a
+guided rollout for users and executives, leveraging the MFA capabilities included in Microsoft 365 as
+the default baseline. Emerge will provide ongoing MFA compliance monitoring and reporting
+(including enabled/disabled status and policy adherence) and tune policies to reduce unnecessary
+prompts while maintaining strong security. Where requirements justify additional investment (for
+example, specific application compatibility or advanced MFA workflows), Emerge will validate the
+need and provide an upgrade path to Duo for consideration.
+Dark Web Monitoring
+The cybersecurity program includes continuous monitoring of company domains and designated
+executive accounts to detect any exposed credentials. When verified findings are identified, the
+response process includes initiating password resets and conducting access reviews to help ensure
+security. A concise summary notification is provided to communicate these actions and findings.
+Cybersecurity Awareness Training
+OmniWATCH Pro includes a Cybersecurity Awareness Program designed to reduce human-risk
+through consistent training, measurable testing, and clear reporting. The program provides new-hire
+baseline training to establish core expectations, plus access to a customizable training library that can
+be aligned to your policies, roles, and real-world threats (phishing, password hygiene, data handling,
+and safe mobile use). Emerge runs proactive phishing campaigns on a regular cadence and provides
+reporting on engagement, trends, and improvement opportunities. We also manage an end-user risk
+score to help identify where additional coaching is needed and to validate progress over time. When
+users receive a suspicious message, they can submit it directly to Emerge for investigation so we can
+confirm legitimacy, advise next steps, and respond quickly if a broader campaign is detected.
+Incident Response Coordination (Emerge CSEP)
+Emerge’s Customer Security Event Plan (CSEP) is our structured, insurance-aware incident
+coordination framework that defines how we respond when a suspected or confirmed security event
+occurs. CSEP establishes clear roles, escalation paths, evidence-preservation steps, and an
+executive communication cadence so decisions are made quickly and documented cleanly. When
+activated, Emerge coordinates containment and recovery activities across the affected systems,
+
+partners with any required third parties (e.g., forensic providers, legal counsel, and cyber insurance
+stakeholders as directed), and delivers an after-action summary with prioritized hardening
+recommendations. The goal is to reduce downtime, limit business impact, and ensure response
+actions align with the expectations commonly required during cyber insurance claims and postincident reviews.
+*The Emerge CSEP is available for review upon request.
+
+D. Server & Infrastructure Management
+Under OmniWATCH Pro, Emerge provides fully managed server and infrastructure management for
+on-premises, private cloud, and hybrid environments. Emerge assumes day-to-day operational
+responsibility for the customer’s server infrastructure, ensuring availability, performance, and security
+while reducing operational risk and administrative burden.
+OmniWATCH Pro is designed for environments with on-premises servers supporting core business
+services such as Active Directory, file services, and application workloads. Services are delivered by
+Emerge’s Technical Operations (Tech Ops) team using standardized tools, proven processes, and
+consistent configuration standards to ensure reliable and predictable outcomes.
+Operating System Patching & Security Management
+Emerge performs ongoing patching and maintenance of Windows server operating systems, including
+critical security updates and service packs. Patching is executed according to established
+maintenance windows and industry best practices to maintain system stability while protecting against
+known vulnerabilities.
+Core Windows Server Role Management
+OmniWATCH Pro includes full administration and ongoing management of essential Windows server
+roles, including:
+•
+•
+•
+•
+•
+•
+•
+
+Active Directory (AD) administration
+User and group account management
+File/folder Permissions management
+Group Policy Object (GPO) creation, maintenance, and enforcement
+Active Directory policy management
+DNS services
+DHCP services
+
+These services ensure reliable authentication, authorization, and network services across the
+organization.
+Virtualization & Hypervisor Management
+For virtualized environments, Emerge provides proactive monitoring and management of core
+hypervisor components and underlying host infrastructure. This includes performance, availability, and
+capacity oversight to support stable operation of hosted workloads and prevent resource contention.
+
+Proactive Monitoring & Incident Response
+Servers and supporting infrastructure are continuously monitored for availability, performance, and
+fault conditions. When issues are detected, Emerge Tech Ops investigates, remediates, and restores
+service to minimize business impact and downtime.
+Configuration Standards & Preventative Maintenance
+Server environments are maintained in alignment with Emerge’s standardized configuration and
+operational practices to reduce complexity, prevent configuration drift, and support consistent service
+delivery. Routine health checks and preventative maintenance activities are performed to ensure
+long-term reliability.
+
+E. Network & Connectivity
+OmniWATCH Pro goes beyond basic “proactive monitoring” and “performance management” by
+applying mature operational processes focused on proactive fault detection and root-cause
+remediation to prevent repeat disruptions. The Emerge Tech-Ops team operates the network to a
+manufacturing-grade standard for uptime and stability, using baseline configuration standards,
+continuous health signals, and disciplined change control to reduce noise, shorten time-to-diagnosis,
+and keep business services consistently available. This includes active management of configuration
+drift, firmware/version consistency across critical devices, and a structured problem-management
+motion to eliminate recurring incidents rather than repeatedly restoring service.
+Network Device Management
+Emerge provides full lifecycle management of core network devices, including firewalls, switches, and
+wireless access points. This includes configuration, monitoring, firmware management, and
+operational support to maintain network stability and performance.
+Firewall Management & Network Security
+OmniWATCH Pro includes ongoing firewall management to protect the organization’s network
+perimeter. This includes rule management, policy updates, and monitoring to ensure secure traffic
+flow and alignment with security best practices. Network security controls are maintained to reduce
+exposure to threats and unauthorized access. If the firewall is capable of Intrusion Detection, Emerge
+offers a tailored Managed Detection and Response service to amplify detection of security threats.
+Proactive Monitoring & Performance Management
+Network infrastructure is continuously monitored for availability, performance, and fault conditions.
+Emerge proactively identifies and resolves issues such as latency, packet loss, or device failures to
+minimize downtime and business disruption.
+Wireless Network Management
+Emerge manages wireless infrastructure to ensure reliable, secure connectivity across offices and
+facilities. This includes access point configuration, performance monitoring, and issue remediation to
+support consistent user experience.
+
+Firmware, Patch & Configuration Management
+Network devices are maintained with current firmware and standardized configurations to reduce
+vulnerabilities, prevent configuration drift, and support consistent service delivery. Updates are
+applied in accordance with best practices and established maintenance windows.
+Incident Response & Troubleshooting
+When network incidents occur, Emerge Tech Ops investigates, troubleshoots, and resolves issues
+affecting connectivity, performance, or security. This includes coordination across network and server
+infrastructure to restore normal operations as quickly as possible.
+Documentation & Standards Alignment
+Network configurations and topology are documented and maintained to support operational
+continuity and efficient troubleshooting. Infrastructure is managed in alignment with Emerge’s
+standardized design and operational practices to ensure scalability and long-term reliability.
+
+F. Microsoft 365 Administration
+Under OmniWATCH Pro, Emerge provides fully managed Microsoft 365 administration and ongoing
+operational support for organizations operating in cloud-only or hybrid environments. Emerge
+assumes responsibility for Microsoft 365 tenant configuration, security posture, identity management,
+and day-to-day administration to ensure reliability, security, and alignment with Microsoft and industry
+best practices.
+Microsoft 365 services are delivered and maintained by Emerge’s Technical Operations (Tech Ops)
+team using standardized baselines, Microsoft-native tooling, and continuous risk monitoring to reduce
+exposure and support business continuity.
+Tenant & Organizational Administration
+Emerge provides centralized administration of the Microsoft 365 tenant, including configuration of core
+services, organizational settings, licensing oversight, and administrative role management. Tenant
+configuration is maintained in alignment with Microsoft recommended practices and OmniWATCH Pro
+operational standards.
+Security Posture & Risk Management
+Microsoft 365 security posture is continuously monitored and managed with a focus on:
+•
+•
+•
+
+Microsoft Secure Score tracking and improvement
+Configuration drift detection and correction
+Alignment to Microsoft security guidance and risk-based controls
+
+These activities reduce identity, email, data, and access-related risk across the Microsoft 365
+environment.
+
+Identity, Password & Access Management (Hybrid Environments)
+For hybrid environments with on-premises servers, Emerge manages identity and access across both
+Active Directory and Microsoft Entra ID. This includes:
+•
+•
+•
+•
+
+Password and authentication policy management
+Hybrid identity synchronization and validation
+Multi-factor authentication (MFA) enforcement
+Conditional Access policy administration
+
+Identity controls are aligned to least-privilege and modern authentication standards to reduce
+unauthorized access and credential-based risk.
+User Onboarding & Offboarding
+OmniWATCH Pro includes full lifecycle user management within Microsoft 365, including:
+•
+•
+•
+
+New user provisioning and license assignment
+Role-based access configuration
+Secure offboarding and access revocation
+
+These processes ensure consistent access control and reduce the risk of orphaned accounts or
+unauthorized access.
+Exchange Online Management
+Emerge provides administration and operational support for Exchange Online, including mailbox
+configuration, policy management, and service health monitoring. Legal hold and retention
+management are supported when appropriate Microsoft licensing is in place.
+SharePoint & OneDrive Administration
+OmniWATCH Pro includes administration and support for SharePoint Online and OneDrive for
+Business, including:
+•
+•
+•
+
+Tenant-level configuration and policy management
+Storage, sharing, and access controls
+Support for end-user and organizational use cases
+
+Emerge strongly encourages strategic collaboration to further adoption of SharePoint. In some cases,
+an internal SharePoint champion is recommended to maximize the adoption and value from
+SharePoint.
+Microsoft 365 Data Protection
+DataWATCH 365, a complementary service to OmniWATCH Pro, provides cloud-to-cloud data
+protection for Microsoft 365 environments. This service protects critical Microsoft 365 workloads
+beyond native Microsoft retention capabilities, ensuring long-term recoverability and resilience against
+accidental deletion, data corruption, or cyber events.
+
+DataWATCH 365 delivers managed backup and recovery for the following Microsoft 365 services:
+•
+•
+•
+•
+
+Exchange Online (mail, calendar, contacts)
+SharePoint Online (sites, libraries, and content)
+OneDrive for Business (user files and version history)
+Microsoft Teams (team structures, channels, and associated data)
+
+Backups are performed cloud-to-cloud and maintained with unlimited data retention, allowing
+organizations to restore data regardless of age or deletion timeframe. All backup operations are
+monitored and managed by Emerge’s Technical Operations (Tech Ops) team to ensure backup
+integrity and recovery readiness.
+DataWATCH 365 strengthens business continuity, supports compliance and audit requirements, and
+aligns with modern cybersecurity and cyber-insurance expectations by ensuring Microsoft 365 data
+remains fully recoverable independent of native platform limitations.
+
+G. Line of Business Application Support
+Application-level ERP functionality, workflows, and data integrity remain the responsibility of the ERP
+vendor. OmniWATCH Pro includes full responsibility for the supporting on-permises infrastructure,
+operating system, patching, backup, monitoring, and recovery of ERP servers.
+For line-of-business application licenses procured through Emerge, centralized license records,
+assignment visibility, and renewal dates, are maintained. Proactive renewal notifications are provided
+to support continuity and cost awareness. This license tracking and renewal management applies only
+to subscriptions purchased through Emerge. For licenses procured externally, Emerge may provide
+limited guidance upon request; however, full tracking, renewal execution, and ongoing administration
+are not included without additional access, coordination, or a separately defined scope.
+
+H. Data Backup & Disaster Recovery
+Emerge provides DataWATCH as a standardized data backup and disaster recovery solution,
+included with OmniWATCH Pro. This service is designed to align with industry best practices,
+including a 3-2-1 backup architecture—maintaining three total copies of data, stored on two different
+types of media, with at least one copy offsite in Emerge’s secure, SOC2-compliant private cloud
+located in the Cincinnati region. Data backups are protected through immutable storage and rigorous
+security controls.
+Backup Monitoring and Visibility
+•
+
+Continuous monitoring and alerting for backup operations across on-premises and cloud
+locations, with automated remediation workflows to address issues.
+
+•
+•
+
+Defined escalation and response thresholds to ensure adherence to compliance and service
+standards.
+Real-time dashboard visibility is provided through Emerge’s customer portal, allowing Millar
+Industries administrators to review backup status and audit logs at any time.
+
+Quarterly Backup Validation and Testing
+•
+•
+
+Quarterly restore tests are conducted on representative systems and data to validate
+recoverability and measure restoration speed.
+Results are documented, including any remediation steps and audit-ready evidence to support
+regulatory or internal compliance requirements.
+
+Disaster Recovery as a Service (DRaaS) — Priced Separately
+Emerge offers Disaster Recovery as a Service (DRaaS) to enable rapid restoration of critical systems
+and data in the event of an outage, disaster, or cyberattack. DRaaS includes creation of customized
+runbooks, standard operating procedures, and regularly scheduled exercises to maintain readiness.
+Recovery objectives—RTO (Recovery Time Objective) and RPO (Recovery Point Objective)—are
+developed in partnership with your team to ensure alignment with business requirements. This service
+is not included in the standard OmniWATCH Pro offering and will be scoped separately as a
+technology roadmap item, subject to further discovery and budgeting.
+
+I. End User Onboarding & Offboarding
+OmniWATCH Pro delivers standardized, SOP-driven user onboarding and offboarding to ensure
+consistent access control, security, and operational efficiency. Emerge follows documented Standard
+Operating Procedures to provision, modify, and decommission user accounts across supported
+systems, including Active Directory, Microsoft Entra ID, and Microsoft 365, based on approved service
+requests. Standard Operating Procedures may be tailored to Millar Industries.
+Onboarding activities are executed using predefined workflows to ensure new users receive quickly
+receive appropriate access aligned to role-based standards. Offboarding activities follow controlled
+procedures to disable access, preserve required data, and reduce the risk of orphaned accounts or
+unauthorized access, with execution dependent on timely customer notification through the Service
+Desk.
+Standard SLAs: new user within 3 business days (rush available); offboarding within 4 business hours
+during business day, including rapid access removal and license recovery.
+•
+•
+•
+•
+
+User provisioning and secure identity setup
+Device preparation and Intune enrollment
+Role based access provisioning
+Secure deprovisioning workflows with proper data and access handling
+
+Emerge will work with your team to establish onboarding and offboarding procedures, stored in a
+shared SOP library. This ensures continuity, security, and standardization during personnel
+transitions.
+
+J. vCIO / Strategic IT Leadership
+Emerge will provide strategic insights and consultation to help Millar Industries plan and maintain a
+technology systems roadmap. Strategic alignment is delivered through an active partnership between
+the Emerge Account Manager and Emerge Technical Operations (TechOps): the Account Manager
+leads the roadmap process and stakeholder alignment, while TechOps contributes technical depth
+and environment visibility to keep recommendations practical, current, and measurable.
+Annual Strategic Insights & Roadmap Consultation
+The account manager leads an annual planning cycle that converts organizational goals into a
+prioritized roadmap, then reinforces it through ongoing touchpoints and quarterly reviews so the
+roadmap adapts to platform change, risk signals, and capacity. Monthly and as-needed check-ins are
+welcomed.
+•
+•
+•
+
+Facilitates roadmap workshops and quarterly priority check-ins with leadership
+Aligns initiatives to outcomes, budgets, and timelines, and documents decisions and owners
+Partners with TechOps to validate feasibility, sequence work, and drive follow-through through
+escalations as needed
+
+This Account Manager / TechOps operating model positions Emerge as a strategic partner with a
+living roadmap and clear accountability.
+Quarterly Roadmap Reviews (QBR) & Technical Debt Management
+Each quarter, the account manager and TechOps review progress and incorporate ongoing updates
+across cloud services, security posture, licensing, and lifecycle needs. The roadmap is refreshed to
+address technical debt early and reduce long-term remediation cost.
+•
+•
+•
+
+Environment health, open initiatives, and delivery status
+Security and compliance posture trends and priority risks
+Device/infrastructure lifecycle planning and cost alignment (including licensing)
+
+Annual Cybersecurity Audit (Included) as a Roadmap Checkpoint
+OmniWATCH Pro includes an Annual Cybersecurity and IT GAP Audit to provide an independent
+checkpoint for roadmap priorities. It includes a NIST CSF assessment plus internal and external
+vulnerability scans to ensure prioritization is anchored in objective risk and year-over-year progress is
+measurable.
+•
+•
+•
+
+Roadmap priorities reflect validated gaps and control needs
+Prioritization is based on objective risk and remediation effort
+Improvements are tracked against NIST/CIS-aligned expectations
+
+Audit results are incorporated into annual planning and monitored through quarterly updates. Within
+the roadmap process, Emerge concentrates consultation on three requested areas—cloud
+optimization, automation & AI, and security/compliance management—so improvements are
+sequenced for maximum impact and adoption.
+Cloud Optimization Strategy
+As a certified Microsoft Cloud and AI partner, Emerge evaluates Microsoft 365, Azure/Entra ID, and
+related services to optimize governance, performance, and cost while staying aligned to Microsoft
+best practices.
+•
+•
+•
+
+Strengthen identity governance and access controls (Entra ID)
+Reduce unnecessary licensing cost and improve tenant hygiene
+Streamline device and application management to support secure productivity
+
+Automation & AI Strategy
+Emerge helps identify high-value automation and AI opportunities and place them appropriately on the
+roadmap, emphasizing practical adoption, governance, and repeatable efficiency gains within
+Microsoft platforms.
+•
+•
+•
+•
+
+Workflow automation (Power Automate) to streamline approvals, notifications, and service
+processes
+Identity lifecycle automation (joiner/mover/leaver) and policy-driven controls
+Compliance and device policy automations (Intune) to reduce manual administration
+Generative and Agentic AI leveraging Microsoft Co-Pilot
+
+This strategy reduces manual burden and helps Millar Industries realize value from modern Microsoft
+cloud capabilities.
+Security & Compliance Management (Ongoing Updates)
+Emerge incorporates ongoing security and compliance updates into the roadmap—translating
+evolving threats, platform changes, and control expectations into prioritized actions and timelines.
+•
+•
+•
+•
+
+Secure Score and control alignment trends
+Identity and access risk indicators (including privileged access)
+Endpoint and email security posture signals and remediation progress
+Vulnerability findings and policy/configuration updates to maintain compliance readiness
+
+The account manager and TechOps ensure these insights translate into prioritized, trackable
+roadmap actions.
+Additional Strategic Consulting Capabilities (Out of Scope)
+Strategic opportunities that extend beyond OmniWATCH Pro can be addressed through separate,
+project-based consulting. Capabilities include cloud architecture/modernization, Microsoft platform
+migrations, tenant consolidation (M&A), advanced identity governance, security program
+development, and automation/AI solution implementation.
+
+The account manager helps define objectives, confirm scope, and coordinate delivery so out-of-scope
+work remains aligned to the roadmap.
+Together, the account manager led roadmap process, TechOps technical insight, quarterly reviews,
+and the annual cyber audit help Millar Industries manage cost, reduce risk, and continuously improve
+technology outcomes while scaling.
+
+Pricing & Assumptions
+Emerge Terms: https://emergeits.com/terms/
+
+Pricing assumptions are based on the user count, device mix, support hours, and service scope
+described in the RFP. Any material changes to these assumptions will be reviewed collaboratively to
+ensure continued alignment and budget predictability.
+Emerge has not assessed the environment for support readiness, including proper configuration and
+implementation of the technologies and features covered in this response. Emerge will conduct an
+initial assessment of the environment prior to onboarding, to validate existing configurations and
+establish an initial IT roadmap to consider, based on findings.
+
+Service Category
+
+Unit Basis
+
+Helpdesk Support (8x5) Per user
+Workstation Management Per device
+Server Management Per server
+Firewall Management Per firewall
+Switch Management Per switch
+Wireless Access Point Mgmt Per WAP
+VPN Management Per environment
+Microsoft 365 Administration Per tenant
+Documentation & Asset Management
+Total - Core Monthly Services
+
+Per User
+Per User
+Per Server
+Per Firewall
+Per Switch
+Per WAP
+Per Enviornment
+Per Tenant
+Included / Add-on
+
+Security Services
+
+Unit Basis
+QTY
+Per user/device
+Per user
+Per company
+Per User
+Per company
+
+Managed Endpoint Detection Response (EDR)
+Multifactor Authentication (MFA) compliance
+Dark Web Monitoring
+Cybersecurity Awareness Training
+Incident Response Coordinate (CSEP)
+Total - Security Services
+
+QTY
+
+Unit Price ($) Monthly Total ($) Assumptions / Notes
+30 $
+$
+2 $
+$
+$
+$
+$
+$
+$
+
+225.00
+200.00
+-
+
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+
+6,750.00
+400.00
+7,150.00
+
+30 OmniWATCH Pro Users
+Included in OmniWATCH Pro
+3 Servers included inOmniWATCH Pro
+Included in OmniWATCH Pro
+Included in OmniWATCH Pro
+Included in OmniWATCH Pro
+Included in OmniWATCH Pro
+Included in OmniWATCH Pro
+Included in OmniWATCH Pro
+
+Unit Price ($) Monthly Total ($) Notes
+$
+$
+Included in OmniWATCH Pro
+$
+$
+Included in OmniWATCH Pro
+$
+$
+Included in OmniWATCH Pro
+$
+$
+Included in OmniWATCH Pro
+$
+$
+Included in OmniWATCH Pro
+$
+-
+
+Backup / DR Service
+Local Backup Monitoring Per server
+Cloud Backup Monitoring Per server
+Backup Validation & Testing Included / Add-on
+Disaster Recovery as a Service (DRaaS)
+Total Backup / DR
+
+Unit Basis
+QTY
+Unit Price ($) Monthly Total ($) Notes
+Per Server
+3 $
+$
+Included in OmniWATCH Pro
+Per Server
+3 $
+$
+Included in OmniWATCH Pro
+Included / Add-on
+3 $
+$
+Included in OmniWATCH Pro
+Optional
+0 $
+$
+DRaaS discovery needed
+
+Service
+Managed Services Onboarding One-time
+Transition / Knowledge Transfer One-time
+New User Onboarding Per user
+Employee Offboarding Per event
+After-Hours Support Per hour
+
+Unit Basis
+One-Time
+One-Time
+Per User
+Per Event
+Per Hour
+
+QTY
+1
+1
+1
+1
+1
+
+Unit Price ($) Monthly Total ($) Notes
+$ 8,000.00 $
+Fixed Fee
+$
+$
+Included in Onboarding
+$
+$
+Included in OmniWATCH
+$
+$
+Included in OmniWATCH
+$
+275.00 $
+-
+
+Emerge provides transparent pricing designed to support predictable operational budgeting and
+long-term value. OmniWATCH Pro is delivered on a per-user, per-month basis and includes the full
+scope of proactive IT operations, cybersecurity safeguards, Microsoft cloud administration, device
+management, and strategic governance defined in the OmniWATCH Pro service model. Both service
+tiers are standards-driven offerings that cannot be purchased à la carte, ensuring consistent security,
+stability, and compliance across the entire technology environment.
+OmniWATCH Pro is designed for organizations with on-premises servers and network infrastructure.
+It includes all proactive and reactive managed services and all cybersecurity protections for a secure
+environment.
+Included Services
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Full end-user helpdesk support (reactive support included) (ITSM)
+Proactive technical operations and system monitoring
+Full server and network device patching and configuration management (CMDB)
+Full cybersecurity program, including identity security, endpoint security, EDR, SOC
+monitoring, and DNS filtering. Third-party security software is included.
+Microsoft 365 administration and policy governance
+Microsoft 365 data protection with off-site backup and indefinite retention
+On-Premise data protection off-site, with limited retention
+Quarterly Business Reviews (QBRs)
+Annual NIST Cybersecurity Assessment and vulnerability scanning
+Strategic support through the Account Manager and TechOps partnership
+Vendor and licensing management for licenses procured through Emerge
+Real-time BI dashboards for visibility into security, compliance, and operations
+
+Onboarding
+Emerge’s new customer onboarding is a structured, project-driven process designed to provide clarity,
+coordination, and confidence from day one. Each engagement is led by a dedicated team coordinator
+who oversees planning, task assignment, and cross-functional alignment, ensuring a seamless
+transition from sales to service. Onboarding begins with an internal kickoff to define roles and
+expectations, followed by a customer kickoff that establishes timelines, information requirements, and
+communication cadence. Progress is actively managed through documented tasks, daily internal
+huddles, and regular customer updates, with clear escalation paths to maintain momentum. This
+disciplined approach ensures accountability, transparency, and assurance that every environment is
+fully documented, validated, and ready for long-term support.
+
+Payment Terms: Invoices will be due based on the following terms:
+• Managed Services: We will invoice you in advance for our services on the 15th calendar day
+of each month in the subsequent calendar month. Net 15 terms.
+• Product orders: Product pricing and availability are subject to change and are not guaranteed
+until the order is received, processed, and shipped. We will invoice you upon product
+shipment. Net 30 terms.
+• Project services: We will provide a progress bill at the end of every month until the project is
+completed.
+Annual Price Increase: On the first anniversary of the Effective Date and each subsequent year
+during the Initial Term of this Agreement, the monthly service fee shall be automatically increased by
+four percent or by a percentage equal to the percentage change in the Consumer Price Index
+statistics published by the United States Bureau of Labor, whichever is greater. Comparisons shall be
+made using the index entitled, “U.S. City Average/All Items and Major Group Figures for all Urban
+Consumers Cincinnati Area (1982-84 = 100),” or the nearest comparable data on changes in the cost
+of living, if such index is no longer published. The change shall be determined by comparison of the
+figure for the previous January 1, with that of January 1 of the current year. This increase shall apply
+to all services provided by us. We will invoice you an additional finance charge of 1% or the maximum
+allowable by law for any invoice you do not pay within 30 days. We will separately invoice any freight
+charges incurred by you.
+Assumptions
+Without performing a standard assessment, Emerge has shared an initial scope of support that may
+include technology that is currently in place, as well as capabilities that may not yet be implemented.
+Where gaps exist between desired outcomes and current-state configuration, targeted implementation
+projects may be necessary to deliver required functionality to the business.
+OmniWATCH Pro requires a minimum of Microsoft 365 Business Premium licensure for information
+workers, and Microsoft 365 Frontline for field workers.
+Minimum Technology Requirements:
+•
+
+Your firewall must be a best-in-class manufacturer firewall and approved for support by us.
+Devices deemed substandard by us will require replacement during the provisioning phase of
+our Agreement with you.
+
+•
+
+You commit to complying with our Datawatch backup and replication services and our security
+bundle services during the provisioning phase of our Agreement with you.
+
+•
+
+All your workstations and similar devices must be running a currently supported and properly
+licensed professional version of the Microsoft Windows operating system.
+
+•
+
+All your servers must be running a currently supported and properly licensed version of the
+Microsoft Windows Server operating system.
+
+•
+
+Your workstations must be business-class devices as designated by the manufacturer.
+
+•
+
+Your server and application environment must include a properly licensed backup solution
+approved by us that we can monitor via automated notifications.
+
+•
+
+Your physical server and storage hardware must include proper licensing approved by the
+manufacturer or us and must include an active manufacturer service agreement and
+manufacturer warranty coverage.
+
+•
+
+Your network and security device environment must include proper licensing approved by us
+and must include an active manufacturer service agreement and manufacturer warranty
+coverage.
+
+Responsibilities:
+•
+
+You are responsible to us for providing a single point of contact (SPOC) for the communication
+of all service-related requests and questions.
+
+•
+
+You are responsible for ensuring the physical safety of our onsite service engineers.
+Additionally, you are responsible for the cooperation of your employees and managers while
+we are onsite at your location.
+Your representatives receiving our services are responsible for confirming that all Functionality
+needed for business operation is satisfactory before the dismissal of our engineering services.
+
+•
+•
+
+Unless otherwise agreed in writing, you are responsible for providing all required hardware,
+licensing, and vendor support maintenance agreements as they pertain to the equipment or
+devices we service within this Managed Services Agreement.
+
+•
+
+Unless otherwise agreed in writing, you are responsible for the physical removal or disposal of
+any legacy or decommissioned equipment. Upon request, we can provide disposal or
+decommission of such equipment at an out-of-scope rate invoiced separately.
+
+•
+
+If applicable, you are responsible for scheduling and for employee communication regarding
+any maintenance windows, outages, training, or any other activities pertaining to this service.
+
+•
+
+You agree to maintain throughout the term of this Agreement, ambient IT room temperature
+and other appropriate environmental conditions in accordance with the manufacturer’s
+specifications for all hardware.
+
+•
+
+You agree to host your cloud infrastructure, if not hosted within our data center, with a service
+provider pre-approved by us.
+
+•
+
+You agree to allow our employees or subcontractors access to your facilities as needed to
+perform services.
+
+•
+
+We reserve the right to reject supporting any device within your environment until proper terms
+for coverage or replacement can be determined.
+
+•
+
+You agree that all your hardware has and will continue to have throughout the term of this
+Agreement, and that it provides appropriate levels of operational resources for the
+environment to function properly, as determined by us
+
+•
+
+You agree to have and maintain throughout the term of this Agreement an adequate internet
+connection that can meet the performance needs of your applications and provide us access
+to your infrastructure.
+
+•
+
+To access the pricing that we provide in your Service Level Agreement, you must provide and
+maintain your IT environment in good working order. If we identify and communicate any
+deficiencies, we will discuss those deficiencies with you and consult with you to address them.
+The remediation of all deficiencies will be your responsibility, and we will invoice you to
+remedy any deficiency.
+
+•
+
+We may require up to 90 days to fully provision your IT environment. We will make reasonable
+efforts to support your needs covered by this Agreement during such provisioning period.
+During the provisioning period, we will not guarantee the service provided by your Service
+Level Agreement.
+
+Service Levels & Reporting
+Customer Satisfaction (CSAT) as a Core Quality Measure
+Customer Satisfaction (CSAT) serves as a central quality metric for Emerge. As of 2026 year-to-date,
+Emerge has achieved a 30% participation rate in CSAT surveys issued for closed tickets. The
+organization aims for a goal of over 97% positive responses and, at the time of proposal submission,
+has realized an impressive 98.7% positive CSAT score. This performance reflects Emerge’s
+commitment to delivering high-quality, empathetic support.
+CSAT Remediation and Continuous Improvement Process
+Emerge proactively addresses any negative CSAT ratings. When a negative rating is received,
+management contacts the user directly to discuss their concerns, validate their experience, and
+ensure that remediation steps are taken. These interactions are followed by documented internal
+actions to prevent similar issues in the future, ensuring both accountability and ongoing service
+improvement.
+Additional Performance Metrics
+Emerge demonstrates exceptional service performance, achieving over 98% customer retention in
+2025 and a Net Promoter Score of +93. The team maintains a goal of 12 hours for time to resolution,
+with a current average of 12.9 hours, and a first contact resolution rate of 68.49%, surpassing the
+62% target. Additionally, past-due tickets older than three days are kept well below the goal of 30,
+with only 28 outstanding. These metrics underscore Emerge’s strong operational discipline and
+mature service delivery framework.
+Service Level Agreement (SLA)
+Emerge follows a clearly defined SLA structure incorporated through our tiered service structure.
+Priority
+
+Description
+
+P1 Critical
+
+Acknowledgment Resolution Target
+
+Full system outage or critical function
+unavailable
+P2 High
+Site outage, key app down, or multi-user
+impact
+P3 Medium Individual user unable to perform key work
+
+15 minutes
+
+4 hours
+
+15 minutes
+
+8 hours
+
+30 minutes
+
+3 business days
+
+P4 Service
+Request
+
+60 minutes
+
+5 business days
+
+Non-urgent tasks, feature requests,
+maintenance
+
+Monthly Reporting & Dashboarding
+Emerge provides Reporting & Analytics through OmniWATCH Pro Cloud to give Millar Industries
+clear, actionable visibility into day-to-day IT operations and Microsoft 365 security posture. Reporting
+is delivered via real-time dashboards, scheduled operational summaries, and a quarterly review
+cadence to support informed decision-making.
+Real-time dashboards provide at-a-glance status across device compliance, identity protections
+(e.g., MFA and Conditional Access), Secure Score trends, backup/recovery indicators, and service
+desk performance.
+•
+•
+•
+•
+•
+
+Device compliance (encryption, OS version, patch level, EDR)
+Identity posture (MFA coverage, Conditional Access alignment)
+Microsoft Secure Score and configuration drift indicators
+Backup health and recovery testing outcomes (where applicable)
+Service desk KPIs (volume, SLA performance, CSAT, time-to-resolution)
+
+Scheduled operational reporting summarizes ticket trends, escalations, device lifecycle and
+end-of-support risks, and license utilization (Microsoft 365 and other licenses procured through
+Emerge), helping prioritize improvements and budgeting decisions.
+Security & compliance reporting highlights organizational security posture and prioritized
+improvement areas using common frameworks (e.g., NIST CSF and CIS Controls) to support
+governance discussions, audit readiness, and cyber insurance needs.
+Quarterly Business Reviews (QBRs) provide a structured forum to review service performance,
+security trends, continuity readiness, licensing changes, and near-term roadmap priorities.
+Leadership-ready summaries can be provided for executive stakeholders to support budgeting,
+planning, audits, and insurance renewals by consolidating operational metrics and key security
+indicators into a concise, digestible format. This reporting approach helps Millar Industries quickly
+identify risk, measure service outcomes, and track progress against agreed operational and security
+objectives.
+
+Vendor Qualifications & References
+Emerge has been in business for more than 20 years and is focused on delivering managed IT
+services, managed cloud services, cybersecurity operations, and proactive technical operations for
+small-to-mid-sized organizations. Our service delivery model is built around a structured helpdesk
+(Tier 1–3), proactive monitoring and maintenance, disciplined documentation and SOP development,
+and measurable reporting—so customers receive consistent outcomes and reduced operational risk.
+Emerge’s engineering team demonstrates deep technical expertise and industry recognition, holding
+more than 160 certifications across Microsoft, Cisco, Azure, VMware, and other enterprise
+technologies. The staff brings an average of over 15 years of professional experience, reflecting
+seasoned proficiency in private cloud hosting, Microsoft 365, Azure, networking, and cybersecurity
+environments. Emerge maintains designation as a Cisco Gold Service Provider for managed IT
+services and cloud services. Emerge is authorized as a Microsoft Cloud and AI partner, specializing in
+Modern Work / AI and Azure. This collective knowledge and proven capability ensure Emerge delivers
+robust, innovative solutions and maintains high operational standards for its clients.
+Emerge has extensive experience supporting organizations with distributed users, mobile/field-based
+staff up to 800 end users, and operational environments where uptime, connectivity, device readiness,
+and responsive support are business-critical. Our service desk and TechOps escalation model is
+designed to support a mixed set of end-user needs across office and remote/field contexts, including
+mobile device governance (where in scope), endpoint lifecycle management, connectivity
+troubleshooting, and vendor coordination for line-of-business applications and peripherals.
+Emerge provides vCIO / advisory capabilities through a combined Account Management + Technical
+Operations (TechOps) operating model. The Account Manager leads stakeholder alignment, roadmap
+planning, budgeting discussions, and recurring governance/QBR cadence, while TechOps provides
+technical depth, environment visibility, and practical feasibility guidance to ensure roadmap decisions
+translate into execution. Where Millar Industries desires deeper, more dedicated strategic advisory
+capacity, Emerge can add an optional Technical Advisor role to expand vCIO-style capabilities (e.g.,
+strategic planning, risk-based prioritization, Microsoft roadmap alignment, lifecycle planning, and
+executive-ready guidance) while preserving continuity with the Account Manager and TechOps
+delivery team.
+Emerge maintains a security-forward managed services program aligned to NIST CSF and informed
+by CIS Controls. Emerge differentiates in cybersecurity. We operate our internal systems, and our
+private cloud in a SOC2 certified datacenter. Over 100 companies ranging from 30 employees – 800
+employees depend on Emerge to support or provide a proven, insurance vetted, cybersecurity
+program.
+OmniWATCH Pro is strengthened by Emerge’s partnership with Converge, aligning cybersecurity
+controls, incident response, and documentation to real-world cyber insurance underwriting
+expectations. This insurance-aware operating model enables expedited and, in some cases,
+auto-approved cyber insurance outcomes, reducing underwriting friction and improving insurer
+confidence during renewals and claims. By pairing proactive security operations with a claims-ready
+
+response framework, OmniWATCH Pro reduces both cyber risk and the operational disruption
+typically associated with insurance events.
+Emerge is the only MSP to formalize an insurance-accepted Customer Security Event Plan (CSEP),
+designed to accelerate the containment, remediation, and recovery of a cyber-attack. This is informed
+by our regular experience protecting and recovering from cyber incidents. Emerge maintains a
+partnership with Insurance underwriters, offering auto-approval benefits under our OmniWATCH
+managed services program. When it matters most, the experience that Emerge offers is invaluable.
+2025 OmniWATCH Program Metrics (Customer Outcomes)
+The following summarizes measured outcomes across OmniWATCH customers during calendar year
+2025. Metrics are based on service desk and platform reporting and are used to track performance,
+drive continuous improvement, and validate maturity of the operating model.
+Service experience: 98%+ customer retention; CSAT 98.7% positive (2026 YTD baseline, consistent
+with 2025 performance); 68.49% first-contact resolution. OmniWATCH customers’ tickets are resolved
+21.6% faster than our non-managed customers, enabled through standardization and proactive
+management.
+Cybersecurity: 2025 Emerge Impact: 148 ransomware events, 798 cyber events, and 2,327 dark
+web credential exposures were mitigated for Emerge customers.
+Backup, data protection, and availability: 399 TB of data protection, 92% of which is backed up
+and tested quarterly with a success rate of 94.8%.
+
+Emerge References
+Emerge has extensive experience supporting manufacturers and organizations aligned to the Defense
+Industrial Space. Upon request, Emerge may provide contact information via personalized
+introduction.
+• TechSolve, Inc (https://www.techsolve.org)
+Emerge supports TechSolve, Inc via OmniWATCH Pro, as they pursue serving the Ohio Region as a
+non-profit consulting organization with decades of experience helping clients achieve DFARS and
+CMMC compliance.
+• Cornerstone Research Group (https://crgdefense.com)
+Emerge has supported Cornerstone for over a decade, in various capacities. This includes proactive and
+reactive support services, project services, and communications infrastructure management.
+
+Appendix: Case Studies
+
+Emerge IT Solutions
+restored critical files
+in just three days with
+Cohesity DataProtect
+
+Industry
+Service Provider
+Use Case
+ac u and eco ery
+
+ansomware eco ery
+
+Cohesity Solutions
+Cohesity DataProtect o ered y a Cohesity
+Powered Service Provider
+Environments
+VMware vSphere virtual machines, VMware Horizon
+
+A full-service IT provider serving companies in the Midwest, Emerge
+IT Solutions had just deployed a Cohesity-Powered backup as a
+service. Less than a month later, a manufacturing customer that used
+the ser ice was targeted y a ransomware a ac
+ased on ast
+experience the manufacturer’s cyber insurance provider expected
+partial recovery to take two to three weeks. Emerge blew past the
+expectation, using Cohesity DataProtect to restore the majority of
+operations in just three days. No ransom was paid. With a downtime
+cost of $35,000/hour, accelerating recovery by 11 to 18 days saved the
+customer approximately $12 million in potential lost revenue.
+
+Challenges
+Emerge IT Solutions has been helping customers in the Midwest with their IT
+needs since the early 2000s. “In addition to designing and implementing IT
+solutions, we also act as a managed services provider,” says Jesse Kegley, Chief
+e enue
+
+icer
+
+e either e tend the com any s internal IT team or manage the
+
+entire IT function for them.”
+For several years Emerge has seen surging interest in its managed cybersecurity
+ser ices E ecuti es recogni e that cy era ac s ha e ecome a significant
+business risk,” Kegley says. “Everyone knows someone who has experienced
+an a ac and uali ying or cy ersecurity insurance has ecome much more
+di icult Some com anies that Emerge wor s with ace ressure rom su
+
+ly
+
+chain partners to meet more stringent cybersecurity policies, making compliance
+im ortant or re enue a ainment and retention
+
+ey enefits
+•
+
+days to restore
+encry ted in a ac
+
+o files
+
+• 11 - 18 days faster recovery than typical
+or this ty e o a ac
+• $12M saved in downtime costs
+• No ransom paid
+
+“
+
+Just three days after the ransomware attack we had restored the
+
+majority of our manufacturing customer’s operations, enough to resume
+production. The customer’s cyber insurance provider said that other
+companies hit by the same targeted attack needed two to three weeks for
+
+”
+
+even partial recovery. We give credit to our team – and to Cohesity.
+– Jesse Kegley, Chie
+
+e enue
+
+Case Study: Emerge IT Solutions restored critical files in just three days with Cohesity DataProtect
+
+icer Emerge IT Solutions
+
+1
+
+Emerge o ers managed data rotection as art o its OmniWATCH
+
+days. “Every minute counted because each hour of downtime
+
+suite o security o erings which also include enetration testing
+
+costs our customer $35,000—each 24 hours costs $840,000,”
+
+security auditing, and threat detection. Until 2022, Emerge used
+
+Kegley says.
+
+se eral o ular ac u technologies
+
+ut ac ing u se eral
+
+petabytes took 24 hours, and restoring large data sets sometimes
+too days
+
+com any that e
+
+to e down or wee s
+
+eriences a cy era ac can t a ord
+
+iller says
+
+e wanted to o er aster file
+
+reco ery to hel our customers get ac to usiness uic ly a ter
+a ac s or ser er ailures
+
+The first ste in reco ery was identi ying the most current ac u
+copy that wasn’t infected. “The forensics team didn’t know yet
+when the breach had happened,” Miller recalls. “Fortunately
+Cohesity gives us two ways to identify a clean copy of our data.”
+The Emerge team used a third-party tool to identify the most
+recent ac u without the a ac signature The other method
+which Miller learned about later, was to view Cohesity’s report of
+
+Solution
+
+data ingest anomalies which signal when a ransomware a ac
+
+Emerge found its answer in Cohesity DataProtect, which it
+o ers as a managed ser ice
+
+unning on Emerge s ri ate cloud
+
+has started.
+Working from the clean copy, Miller began restoring VMs and virtual
+
+DataProtect reduces risk with immutable copies that can’t be
+
+des to s in the order the customer re uested most critical
+
+altered easily, multifactor authentication, and role-based access
+
+first Cohesity has awesome enter rise search ca a ilities he
+
+controls. And it’s fast. “When the Cohesity solution restored a
+
+says
+
+ith other ac u so tware I e used just finding the file
+
+T ser er in just two minutes in our tests we thought it was
+
+you want to restore takes multiple steps. With Cohesity it was as
+
+a mistake!” Miller says. “Our previous solution could have taken
+
+sim le as entering the file name selecting the most recent co y
+
+several hours or days.”
+
+from the list, and clicking Restore Now. Then boom!—a few minutes
+
+Today Emerge uses Cohesity DataProtect to back up several
+eta ytes o customer files including
+
+s
+
+irtual des to s
+
+applications, and data. “Companies that use our CohesityPowered ser ice meet a common re uirement or cy er insurance
+which is to maintain immuta le ac u co ies o site
+
+egley says
+
+For extra protection, Emerge uses Cohesity’s DataLock feature
+to create a backup snapshot that nobody can alter—not even an
+administrator—until the lock expires.
+
+Even large VMs were back in production in two minutes.” Emerge’s
+engineers logged into each
+
+to confirm it eha ed normally
+
+before they connected it to the network. “Saving a couple of
+minutes finding each
+times
+
+might sound tri ial
+
+ut two minutes
+
+s e uals two hours aster reco ery worth
+
+to
+
+our manufacturing customer,” says Miller.
+The recovery process was so straightforward that Emerge
+
+For a large manufacturer with multiple locations, Emerge’s
+Cohesity-Powered backup and recovery service paid for
+itsel many times o er in the first month
+
+later the VM came up and started migrating over to production.
+
+ee s a ter Emerge
+
+implemented Cohesity DataProtect for backup and recovery,
+the manu acturer was hit y a targeted ransomware a ac that
+encrypted nearly all of its 65 VMs and 500 virtual desktops.
+egley i idly remem ers how the a ac un olded:
+
+hile we
+
+needed no help from Cohesity support despite having deployed
+DataProtect only one month earlier.
+
+Results
+S eedy restoration o files slashed the usiness im act o the
+a ac
+
+ust three days a ter the ransomware a ac we had
+
+restored the majority of our manufacturing customer’s operations,
+
+don’t manage the customers’ cybersecurity, we do manage
+
+enough to resume production,” Kegley says. “The customer’s cyber
+
+their helpdesk, and the morning of the event we received a
+
+insurance provider said that other companies targeted by the
+
+few calls from employees who couldn’t access systems,” he
+
+same a ac needed two to three wee s or e en artial reco ery
+
+says Emerge uic ly confirmed that certain roduction ser ers
+
+We give credit to our team—and to Cohesity.”
+
+were encrypted—and that the problem was spreading. The
+manufacturer’s security partner soon determined that the event
+was a large scale a ac
+
+y a nation state threat actor
+
+t that
+
+point the manufacturer’s incident-response team, including
+Emerge and a ‘breach coach’ from the cybersecurity insurer,
+
+ast reco ery had a significant im act on the o om line
+Recovering in three days instead of the 14 to 21 days typical of this
+ty e o a ac sa ed a
+
+ro imately
+
+million in downtime costs
+
+No ransom was paid.
+
+made the decision to shut down all servers and start the recovery
+
+ow Emerge is u ing Cohesity DataProtect to wor
+
+process,” Kegley says.
+
+recovery, using it as part of a hybrid cloud. “We’ll use Cohesity
+
+Emerge s rang into action to restore clean files rom the Cohesity
+backups, forming a team that worked around the clock for three
+
+or disaster
+
+DataProtect on our private cloud for recent backups, and Microsoft
+Azure for archiving, reducing customer costs,” Kegley says. If a
+customer’s production environment goes down, Emerge can spin
+up their VMs right on its private cloud or in Azure.
+
+Case Study: Emerge IT Solutions restored critical files in just three days with Cohesity DataProtect
+
+2
+
+egley sums it u
+
+E ecti e cy ersecurity de ends on eo le
+
+process, and technology. Cohesity DataProtect is the technology
+
+About Emerge IT Solutions
+
+that helps our people put in place the processes to help customers
+
+ounded in
+
+manage ris
+
+technology adviser in the Ohio Valley. The company accomplishes
+
+and reco er uic ly a ter an a ac or un lanned
+
+Emerge is commi ed to e the most trusted
+
+this with best-in-class technical knowledge and competency,
+
+outage.”
+ighlights o the ransomware a ac reco ery or Emerge s
+manu acturing customer:
+•
+
+days to restore
+
+•
+
+to
+
+leading technology, superior customer service, and a commitment
+to long-term relationships. Emerge’s team includes dozens of
+highly skilled engineers providing a full range of IT solutions.
+
+o o erational data encry ted in a ac
+
+days aster reco ery than ty ical or this ty e o a ac
+
+• ~$12M saved in downtime costs
+• No ransom paid
+
+Learn more at www.cohesity.com
+© 2023 Cohesity, Inc. All rights reserved.
+Cohesity, the Cohesity logo, SnapTree, SpanFS, DataPlatform, DataProtect, Helios, and other Cohesity marks are trademarks or registered trademarks of Cohesity, Inc. in the US and/
+or internationally. Other company and product names may be trademarks of the respective companies with which they are associated. This material (a) is intended to provide you
+in ormation a out Cohesity and our usiness and roducts
+was elie ed to e true and accurate at the time it was wri en ut is su ject to change without notice and is ro ided
+on an “AS IS” basis. Cohesity disclaims all express or implied conditions, representations, warranties of any kind.
+COHESITY.com
+
+Par
+
+e Suite
+
+San ose C
+
+Case Study: Emerge IT Solutions restored critical files in just three days with Cohesity DataProtect
+
+E
+
+3
+
+

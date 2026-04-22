@@ -1,0 +1,172 @@
+#!/bin/bash
+# Tesseract OCR Script
+# Extracts text from images using Tesseract with optional pre-processing
+
+set -e
+
+# Check if tesseract is available
+if ! command -v tesseract &> /dev/null; then
+    echo "Error: tesseract is not installed. Run: bash /home/rwhitaker/.openclaw/workspace/scripts/install-tesseract.sh"
+    exit 1
+fi
+
+# Default values
+IMAGE_PATH=""
+THRESHOLD=false
+SHARPEN=false
+GRAYSCALE=false
+DESPECKLE=false
+DESKEW=false
+MORPH_CLEAN=false
+DPI=600
+PSM=3
+NUMBERS_ONLY=false
+OUTPUT_DIR="/tmp/ocr_output"
+
+# Parse arguments
+while [[ $# -gt 0 ]]; do
+    case "$1" in
+        --threshold)
+            THRESHOLD=true
+            shift
+            ;;
+        --sharpen)
+            SHARPEN=true
+            shift
+            ;;
+        --grayscale)
+            GRAYSCALE=true
+            shift
+            ;;
+        --psm)
+            PSM="$2"
+            shift 2
+            ;;
+        --numbers)
+            NUMBERS_ONLY=true
+            shift
+            ;;
+        --despeckle)
+            DESPECKLE=true
+            shift
+            ;;
+        --deskew)
+            DESKEW=true
+            shift
+            ;;
+        --morph)
+            MORPH_CLEAN=true
+            shift
+            ;;
+        --dpi)
+            DPI="$2"
+            shift 2
+            ;;
+        *)
+            IMAGE_PATH="$1"
+            shift
+            ;;
+    esac
+done
+
+# Check if image path is provided
+if [[ -z "$IMAGE_PATH" ]]; then
+    echo "Usage: $0 <image_path> [--threshold] [--sharpen] [--grayscale] [--psm] [--numbers] [--despeckle] [--deskew] [--morph] [--dpi]"
+    echo ""
+    echo "Options:"
+    echo "  --threshold    Apply adaptive thresholding (good for low-contrast images)"
+    echo "  --sharpen      Apply sharpening filter (good for blurry images)"
+    echo "  --grayscale     Convert to grayscale (reduces noise)"
+    echo "  --psm <mode>     Set Tesseract page segmentation mode (default: 3)"
+    echo "                   Try 6 for single block, 7 for single line, 11 for sparse text"
+    echo "  --numbers       Restrict to numbers and basic punctuation only (good for scores)"
+    echo "  --despeckle   Apply despeckle filter (removes specks/noise)"
+    echo "  --deskew       Auto-straighten skewed images"
+    echo "  --morph          Apply morphology cleanup (opens text areas)"
+    echo "  --dpi <number>    Set DPI (default: 600, higher is better for small text)"
+    exit 1
+fi
+
+# Check if image exists
+if [[ ! -f "$IMAGE_PATH" ]]; then
+    echo "Error: Image not found: $IMAGE_PATH"
+    exit 1
+fi
+
+# Create output directory
+mkdir -p "$OUTPUT_DIR"
+
+# Generate base filename
+BASENAME=$(basename "$IMAGE_PATH" | cut -d. -f1)
+TEMP_IMAGE="$OUTPUT_DIR/${BASENAME}_processed.png"
+OUTPUT_TEXT="$OUTPUT_DIR/${BASENAME}.txt"
+
+echo "Processing: $IMAGE_PATH"
+
+# Pre-processing with ImageMagick if available
+if command -v convert &> /dev/null; then
+    echo "Applying pre-processing..."
+
+    # Build convert command
+    CONVERT_CMD="convert \"$IMAGE_PATH\""
+
+    # Grayscale
+    if [[ "$GRAYSCALE" == "true" ]]; then
+        CONVERT_CMD="$CONVERT_CMD -colorspace Gray"
+    fi
+
+    # Sharpen
+    if [[ "$SHARPEN" == "true" ]]; then
+        CONVERT_CMD="$CONVERT_CMD -sharpen 0x1.2+1.5+0.2"
+    fi
+
+    # Threshold (good for digital displays/scoreboards)
+    if [[ "$THRESHOLD" == "true" ]]; then
+        CONVERT_CMD="$CONVERT_CMD -threshold 70% -negate"
+    fi
+
+    # Despeckle (remove speckle noise)
+    if [[ "$DESPECKLE" == "true" ]]; then
+        CONVERT_CMD="$CONVERT_CMD -despeckle 3"
+    fi
+
+    # Deskew (auto-straighten)
+    if [[ "$DESKEW" == "true" ]]; then
+        CONVERT_CMD="$CONVERT_CMD -deskew 40%"
+    fi
+
+    # Morphology cleanup (open text areas)
+    if [[ "$MORPH_CLEAN" == "true" ]]; then
+        CONVERT_CMD="$CONVERT_CMD -morphology Open:1x1 -morphology Close:1x1"
+    fi
+
+    # Save to temp file
+    CONVERT_CMD="$CONVERT_CMD \"$TEMP_IMAGE\""
+    eval $CONVERT_CMD
+
+    echo "Pre-processing complete"
+else
+    echo "ImageMagick not found, using original image"
+    TEMP_IMAGE="$IMAGE_PATH"
+fi
+
+# Run Tesseract
+if [[ "$NUMBERS_ONLY" == "true" ]]; then
+    echo "Running Tesseract OCR at $DPI DPI (PSM: $PSM, numbers-only mode)..."
+    tesseract "$TEMP_IMAGE" "$OUTPUT_DIR/${BASENAME}" -l eng --dpi "$DPI" --psm "$PSM" -c tessedit_char_whitelist=0123456789 quiet 2>/dev/null
+else
+    echo "Running Tesseract OCR at $DPI DPI (PSM mode: $PSM)..."
+    tesseract "$TEMP_IMAGE" "$OUTPUT_DIR/${BASENAME}" -l eng --dpi "$DPI" --psm "$PSM" quiet 2>/dev/null
+fi
+
+# Display results
+if [[ -f "$OUTPUT_TEXT" ]]; then
+    echo ""
+    echo "=== OCR Results ==="
+    cat "$OUTPUT_TEXT"
+    echo ""
+    echo "Output saved to: $OUTPUT_TEXT"
+else
+    echo "Error: OCR failed to produce output"
+    exit 1
+fi

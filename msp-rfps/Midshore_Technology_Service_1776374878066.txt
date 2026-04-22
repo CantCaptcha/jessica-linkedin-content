@@ -1,0 +1,635 @@
+Request for Proposal (RFP) Response
+IT Managed Services Provider (MSP)
+Millar Industries
+Submitted by: Midshore Technology Services LLC (MTS)
+Website: callmts.com
+Phone: (443) 448-5000
+Primary Contact: Justin Smith, President | Justin.Smith@callmts.com
+Date Submitted: April 10, 2026
+
+Confidentiality Statement
+This proposal contains confidential and proprietary information of Midshore Technology
+Services LLC (“MTS”). The recipient agrees to maintain the confidentiality of all such
+information, which is disclosed solely for the purpose of evaluating MTS’s response to this
+RFP. The recipient shall not disclose this information to any third party except as required
+for evaluation of the proposal and shall use the information only for that purpose. If
+requested, MTS can provide a redacted version suitable for broader internal distribution.
+
+RFP Summary & Key Dates
+•
+•
+•
+•
+•
+
+•
+•
+
+•
+
+Proposal submission due: April 10, 2026
+Selection of top 3: April 24, 2026
+Top 3 evaluation: May 4–May 8, 2026
+Final selection: May 22, 2026
+Client profile (per RFP): Millar Industries, a manufacturing company specializing in
+injection molding; single 27,000 sq. ft. facility in Arden, NC; 30+ employees;
+participant in the Defense Industrial Base (DIB).
+Operating window: Dayshift focus (M–F 7:00–5:30 Eastern); occasional weekends;
+onsite support response within 2 business days.
+Current environment highlights: Microsoft 365; Cisco Meraki network and firewall;
+niche on-prem ERP with external application support (internal infrastructure
+support required).
+Preference: Knowledge and experience with CMMC.
+
+Executive Summary
+Midshore Technology Services LLC (MTS) is a Service-Disabled Veteran-Owned Small
+Business (SDVOSB) and a security-focused Managed Service Provider (MSP) and Managed
+Security Service Provider (MSSP) headquartered in Denton, Maryland, supporting
+organizations across the Mid-Atlantic region. Founded in 2018, MTS delivers managed IT,
+managed cybersecurity, and consulting services with an emphasis on operational
+reliability, measurable service levels, and pragmatic, risk-based security controls.
+For Millar Industries, MTS proposes a managed services model designed for a single-site
+manufacturing operation: responsive end-user support, resilient network operations
+(including Cisco Meraki), disciplined patching and endpoint management, and
+security/compliance practices aligned to Defense Industrial Base (DIB) expectations.
+Where your environment includes a niche on-prem ERP supported by a third party, MTS can
+own the surrounding infrastructure (servers, backups, identity, networking, and monitoring)
+and provide coordinated vendor management to reduce downtime and accelerate
+resolution.
+Scope notes (to be confirmed during discovery): Estimated environment size: 30 users, 40
+workstations, and 5 servers across 1 location. Proposed pricing is based on these
+quantities and may be adjusted after discovery/validation.
+
+Partner Information (MTS)
+Company Overview & Background
+MTS was founded in 2018 and has grown through referrals and long-term client
+relationships by pairing “small-town friendly service” with enterprise-grade engineering and
+security practices. We support small to mid-size businesses, local government, and nonprofit/association clients with environments ranging from fully cloud-based to hybrid and
+on-premises.
+Legal Name
+Year Founded
+Headquarters
+Service Territory
+
+Employee Count
+
+Midshore Technology Services LLC
+2018
+Denton, Maryland
+Mid-Atlantic (Maryland, Delaware, Virginia) and remote support
+for multi-state and Nation-wide users (as applicable)
+• President/Chief Advisor & Engineer
+• Service Desk Manager & Lead Engineer
+• IT Technician/Engineers
+• Operations Manager
+•
+
+Support Hours
+
+Primary Support
+Channels
+
+Primary Tools
+
+•
+•
+
+Standard support hours: Monday–Friday, 8:00 AM – 5:00 PM
+ET
+On-call support: Weekends and Federal holidays
+24x7 coverage available through on-call escalation and an
+after-hours technical answering service
+
+Phone, email, remote support tools, and optional end-user
+portal/chat
+ITSM/Ticketing: HaloPSA
+Documentation & Vault: Hudu
+RMM: NinjaRMM
+Security Stack: Microsoft Defender, Huntress
+PAM: AutoElevate
+NOC: Domotz
+Backups: Acronis & Dropsuite (CommVault for FedRamp)
+Networking: Ubiquiti UniFi Primary (Meraki Experience in house)
+
+Primary Contact
+Name: Justin Smith
+Role: President & Chief Advisor/Engineer
+
+Email: Justin.Smith@callmts.com
+Phone: 443-448-5000
+
+Key Partnerships, Alliances, and Accreditations
+•
+
+Technology vendors/partners: Microsoft (Microsoft 365/Entra/Intune, Microsoft
+Defender), Cisco Meraki, HaloPSA, Hudu, NinjaRMM, Huntress, AutoElevate,
+Domotz, Acronis, and Ubiquiti UniFi.
+
+•
+
+Service partners: MTS maintains relationships with specialized partners for
+projects such as compliance readiness, advanced security engineering, and
+VoIP/telephony.
+Business certifications/accreditations: Staff certifications include Certified
+Information Systems Security Professional (CISSP), Certified Ethical Hacker (CEH),
+CompTIA A+ (A+), CompTIA Network+ (Net+), and Cisco Certified Network Associate
+(CCNA).
+
+•
+
+Note: MTS is not CMMC Level 2 certified. However, MTS has assisted other organizations
+through their CMMC Level 2 journey by supporting control implementation and
+representing the Organization Seeking Certification (OSC) during the Level 2 assessment
+process, resulting in a full score of 110.
+
+Client References (2–3)
+Note: References should be recent; include at least one manufacturing reference; include
+email and phone for each.
+•
+
+Town of Denton — Municipal (including Police Department); ~50 employees; Full
+MSP/MSSP services; customer since 2025.
+Reference Contact: Scott Getchell | Email: sgetchell@dentonmaryland.com |
+Phone: 410-479-2050
+
+•
+
+FBB Capital Partners — Financial; ~30 employees; Full MSP/MSSP services;
+customer since 2025.
+Reference Contact: Bridget Simpson | Email: bridget@fbbcap.com | Phone: 301657-8870 ext.
+
+•
+
+National Spectrum Consortium — Defense; ~10 employees; Full MSP/MSSP
+services; customer since 2024.
+Reference Contact: Erin Hill | Email: erin.hill@spectrumconsortium.org
+
+Response to RFP Topics
+1. Network Support
+MTS provides end-to-end network support for SMB environments, including LAN/WAN,
+Wi-Fi, firewall, remote access, and site-to-site connectivity. For Cisco Meraki
+environments, we can administer the Meraki dashboard, maintain standardized
+configurations, review firmware cadence, and validate security posture (segmentation,
+least-privilege admin access, logging, and alerting). We also implement network
+documentation (diagrams, IP plans, VLANs, SSIDs) and change control for any
+modifications.
+•
+•
+•
+
+Support &
+Availability
+
+Monitoring &
+Tooling
+
+SLAs
+(Proposed)
+
+Standard support hours: Monday–Friday, 8:00 AM – 5:00 PM ET
+On-call support: Weekends and Federal holidays
+24x7 coverage available through on-call escalation and an afterhours technical answering service
+
+Onsite support available within 2 business days (per RFP) and sooner by
+mutual agreement. MTS may also identify and locate local resources to
+support rapid response and on-site requirements as defined by the
+customer.
+NOC monitoring for availability, bandwidth, and device health: Domotz
+Network Monitors. Syslog/SIEM forwarding for security-relevant logs
+where required to the MTS Huntress managed SIEM platform.
+Configuration backup/versioning: Acronis for physical, virtual and cloud
+servers; Dropsuite for Microsoft 365 collaboration backups; CommVault
+as required where FedRamp backup solutions are required.
+• P1 – Critical: Response target: 1 hour; target resolution: 24 hours
+• P2 – High: Response target: 2 hours; target resolution: 48 hours
+• P3 – Medium: Response target: 4 hours; target resolution: 72
+hours
+• P4 – Low: Response target: 8 hours; target resolution: 96 hours
+• P5 – Very Low: Response target: N/A; target resolution: 120 hours
+Note: “Hours” are measured in business hours/days (Monday–Friday,
+8:00 AM – 5:00 PM ET) unless otherwise agreed. Critical after-hours
+
+Technology
+Stack
+
+issues are handled via on-call escalation and after-hours answering
+service.
+Cisco Meraki (MX/MS/MR) support and administration (dashboard
+management, configuration standards, firmware review cadence);
+ISP/circuit coordination; VPN and secure remote access; and network
+segmentation (business vs. OT/IoT, as applicable) using VLANs/SSID
+design and access control policies.
+MTS monitors upstream and downstream connectivity via strategically
+placed Domotz “boxes” (small Layer 3 devices) installed across the
+environment as necessary. This enables continuous visibility into
+network health, internet connectivity, and device up/down status, and
+can automatically generate tickets in HaloPSA when alerts meet defined
+thresholds.
+
+2. End User Computing (Help Desk, Endpoints, Patch Management)
+MTS delivers responsive end-user support designed to keep production-adjacent business
+operations running smoothly. Our model prioritizes fast triage, clear communication, and
+consistent documentation. Requests are accepted via phone and email, and we can
+provide an end-user portal for ticket submission and knowledge articles. We will align
+coverage to Millar’s operating hours (M–F 7:00–5:30 Eastern) and can define an after-hours
+escalation path for critical business-impacting events.
+Help Desk
+Coverage &
+Capability
+Endpoint
+Security Tools
+Patch
+Management
+Device Lifecycle
+
+Tier 1–2 support for Windows/macOS endpoints, printers, Microsoft
+365, and common line-of-business applications. Escalation for
+specialized issues (Tier 3/engineering) as needed.
+Microsoft Defender for Endpoint paired with Huntress for
+EDR/MDR/AV; device encryption policies, secure configuration
+baselines, and alerting/response procedures.
+Operating system and third-party patching via NinjaRMM Cadence:
+Daily 3rd Party software checks and updates; Monthly Windows OS
+updates. Maintenance windows coordinated with Millar. Reporting:
+monthly patch compliance and exception list.
+Asset inventory, warranty tracking, standard builds, procurement
+assistance, and secure disposal guidance.
+
+3. Software & Applications
+MTS supports core business applications and the underlying services they depend on
+(identity, networking, endpoints, servers, storage, backups). For Millar’s niche on-prem
+ERP, MTS can coordinate with the ERP application vendor for application-layer issues while
+
+owning infrastructure responsibilities such as server OS patching, virtualization/storage (if
+applicable), backup verification, account/permission administration, and monitoring for
+availability and performance.
+SaaS
+Subscription
+Management
+Business
+Application
+Support
+Patch
+Management
+(Apps/Servers)
+Backup &
+Disaster
+Recovery
+
+Microsoft 365 license management, user
+provisioning/deprovisioning, and periodic access reviews. MTS will
+takeover and manage customer Microsoft 365 subscriptions
+through our 3rd party software distribution service.
+Support for Microsoft 365 apps and approved business apps
+(approved apps list can be developed and/or provided to customer).
+For ERP: vendor coordination + infrastructure ownership. Change
+control and maintenance windows used to reduce disruption.
+Server OS and application patching where in scope, with testing
+and rollback planning for critical systems (e.g., ERP). Monthly
+updates for Windows Server OS (delayed by 14-days)
+3-2-1 aligned backups for servers and critical data where feasible.
+Microsoft 365 data protection (mailbox/OneDrive/SharePoint) via
+Dropsuite. Backup verification and restore testing schedule: Daily
+backup schedules.
+
+4. Security & Compliance
+MTS operates with a security-first managed services approach and has experience
+supporting organizations that participate in the Defense Industrial Base (DIB). We
+understand the operational realities of DIB compliance and can support policy, technical
+control implementation, evidence collection, and ongoing monitoring aligned to
+frameworks such as CMMC and CIS Controls. While certification requirements apply to the
+client, MSP practices, documentation, and access controls are often essential to
+successful audits and assessments.
+Security Appliance
+Management
+Monitoring Services
+Compliance
+Reporting
+
+Firewall administration (including Meraki MX), VPN, content
+filtering policies, and configuration reviews.
+24x7 or business-hours monitoring options for endpoints,
+identity, and network devices. Security event monitoring via
+Huntress.
+Asset inventory, patch compliance, MFA coverage, backup
+verification, admin account review, and security metrics. CMMCaligned evidence support.
+
+Vulnerability
+Assessments
+Incident Response
+
+Scheduled internal vulnerability scanning and remediation
+tracking. External scanning optional.
+Documented incident response procedures, escalation
+contacts, and post-incident reporting. Tabletop exercises
+available as an add-on.
+
+5. Cloud Services
+MTS supports cloud-first and hybrid environments, with core experience in Microsoft 365,
+Entra ID, and Intune. We can assist Millar with cloud storage governance
+(SharePoint/OneDrive), tenant security hardening, conditional access policies, and cloud
+backup. Where hosting is required (e.g., application hosting, DR replicas), MTS can design
+and manage solutions in Azure, subject to Millar’s requirements and budget.
+Cloud
+Storage/Hosting
+Cloud Backup
+SaaS Migration
+Support
+
+Microsoft 365 SharePoint/OneDrive governance and administration.
+Optional Azure hosting for workloads.
+Microsoft 365 backup (mail, OneDrive, SharePoint) and optional
+cloud-to-cloud or cloud-to-on-prem backup architectures.
+Planning and execution support for migrations (email, file shares,
+SharePoint, identity, endpoint management). MTS utilizes an
+automated toolset to assist with SaaS migrations (e.g., Microsoft
+365 to Google Workspace or vice versa).
+
+6. Communication Services
+MTS administers Microsoft 365 email and collaboration services (Exchange Online, Teams,
+SharePoint/OneDrive) including user lifecycle management, mail flow, spam/phishing
+protections, and security baselines. For telephony/VoIP, MTS can support Millar’s existing
+solution or propose an updated VoIP platform through MTS sister VoIP company, Voice 9.
+
+Email
+Management
+
+VoIP/Phone
+System Support
+
+Exchange Online administration, mailbox security, anti-phishing
+tuning, retention policies (as required). MTS fully deploys the
+Microsoft Defender for Office security stack to protect email and
+collaboration services. Additionally, MTS deploys Dropsuite for
+backup and Recovery of Microsoft Entra ID and Microsoft 365.
+Unless VoIP services are purchased through MTS VoIP, VoIP support
+services are often limited in scope by MTS. However, MTS will commit
+to review existing VoIP infrastructure and determine if additional cost
+will be added to our proposal/monthly support costs based on the
+VoIP service and potential hardware in production.
+
+Collaboration
+Tools
+
+Microsoft Teams governance, SharePoint permissions model, and
+user training/enablement.
+
+7. Business Continuity
+MTS helps clients operationalize business continuity through a blend of resilient design,
+verified backups, and practiced response procedures. For a single-site manufacturer,
+continuity planning typically focuses on restoring identity, email/collaboration, internet
+connectivity, and the ERP ecosystem in a controlled order, with defined RPO/RTO targets.
+Disaster Recovery
+Planning
+Backup
+Verification
+Incident Response
+Procedures
+
+Documented DR plan for critical systems (ERP, file shares,
+identity, network). Annual review and update cycle.
+Scheduled verification (automated + manual spot checks) and
+periodic restore tests. Reporting provided monthly/quarterly
+Defined escalation path, communications template, and
+technical containment steps for ransomware and account
+compromise scenarios.
+
+Additional Points Requested
+IT Process Management (Incident, Problem, Change)
+•
+
+•
+
+•
+
+Incident Management: All requests generate a ticket, are prioritized by business
+impact/urgency, and tracked to closure with end-user confirmation where feasible.
+Target response and resolution times (measured in business hours/days, Monday–
+Friday 8:00 AM – 5:00 PM ET) are as follows: P1 – Critical (1 hour response / 24
+hours target resolution), P2 – High (2 hours / 48 hours), P3 – Medium (4 hours / 72
+hours), P4 – Low (8 hours / 96 hours), and P5 – Very Low (N/A / 120 hours). Critical
+after-hours issues are handled via on-call escalation and after-hours technical
+answering service.
+Problem Management: Recurring issues are identified via ticket trend review and
+addressed with root-cause analysis and corrective actions. Known
+issues/workarounds are documented.
+Change Management: Changes to production systems follow an approval
+workflow, maintenance window coordination, implementation plan, and rollback
+plan for higher-risk changes.
+
+Unique Capabilities / Differentiators
+•
+
+•
+
+•
+•
+
+•
+
+Security-first MSP delivery: MTS integrates cybersecurity practices into everyday IT
+operations (identity hardening, least privilege, verified backups, logging, and
+response playbooks).
+DIB-aware approach: Experience supporting DOD contractors and organizations
+preparing for CMMC assessments; ability to assist with evidence collection and
+control ownership boundaries.
+Maximize existing investments: Preference for using and tuning what you already
+pay for (especially within Microsoft 365) before adding net-new tools.
+Documentation-driven support: Standardized environment documentation
+(network diagrams, inventories, SOPs, and runbooks) to reduce downtime and
+speed onboarding.
+Right-sized service model: Scalable coverage for a 30+ person single-site
+operation without “enterprise bloat.”
+
+Planning for Scaling & Emerging Technologies
+MTS plans for growth by standardizing baselines (identity, endpoint, network, backup) and
+implementing repeatable automation in onboarding/offboarding, patching, and reporting.
+As Millar scales (headcount, additional shifts, additional sites, or expanded OT), we can
+adjust coverage hours, introduce a co-managed model, and implement enhanced
+monitoring and segmentation strategies. We also provide advisory support to help evaluate
+emerging technologies (AI productivity tools, modern identity controls, and next-generation
+endpoint security) with a bias toward measurable ROI and reduced risk.
+
+Reporting & Documentation
+•
+•
+•
+•
+
+Monthly/Quarterly Service Reporting: ticket volumes, response times, resolution
+times, recurring issues, and improvement actions.
+Security Reporting: endpoint security status, identity security events, vulnerability
+findings and remediation status.
+Patch & Asset Reporting: patch compliance by device class; asset inventory and
+lifecycle tracking.
+Documentation Deliverables: network diagrams, IP/VLAN plan, admin account
+inventory, backup architecture, DR plan, and SOPs/runbooks. Documentation all
+developed and stored within the MTS “Vault” for the customer.
+
+Compliance / Regulatory Experience (Defense Industrial Base)
+MTS fully understands the responsibilities and shared-control boundaries of an MSP/MSSP
+in an Organization Seeking Certification (OSC)’s journey to CMMC Level 2 compliance—
+including secure administration practices, access control, configuration management,
+logging/monitoring, incident response alignment, and the evidence needed to demonstrate
+ongoing effectiveness of controls. We have supported Defense Industrial Base (DIB) clients
+for more than four years and have recently supported an OSC through a CMMC Level 2
+assessment that resulted in a full 110 score and Level 2 certification.
+MTS can be as involved in the assessment process as needed to help ensure a successful
+certification outcome—ranging from readiness consulting and remediation planning to
+implementation support, documentation/evidence preparation, and coordination with
+internal stakeholders and third-party vendors. Upon request and under NDA, we can also
+use a Service Responsibility Matrix (SRM) approach to clearly define which practices and
+artifacts are owned by Millar, MTS, and any other service providers, so responsibilities are
+unambiguous during assessment and in ongoing operations.
+
+Commercials (Pricing) & Proposed SLA Summary
+Pricing below is based on Millar’s estimated counts (30 users, 40 workstations, 5 servers, 1
+location). Final pricing will be confirmed after discovery (device/server validation, licensing
+requirements, security requirements, and backup scope).
+Summarized List of Inclusions/Exclusions:
+https://callmts.huducloud.com/shared_article/SJeNkZcowxWVTN5STYGvA5kK
+Component
+
+Pricing
+Model
+
+Monthly
+Cost
+
+Managed IT
+(Help Desk +
+Endpoint
+Mgmt)
+
+Hybrid (per
+user + per
+workstation)
+
+30 users × $69.50 ($2,085.00) + 40
+$4,867.00 workstations × $69.50 ($2,782.00). Bundled
+monthly service.
+
+Network
+Management
+(Meraki)
+
+Hybrid (per
+location)
+
+$139.00
+
+Server
+Management
+
+Hybrid (per
+server)
+
+$695.00
+
+Notes/Assumptions
+
+1 location × $139.00. Includes
+management/monitoring/documentation of
+network in scope. Pass-through costs (e.g.,
+ISP, Meraki licensing) billed separately as
+applicable.
+5 servers × $139.00. Includes server
+monitoring/patching in scope
+
+Server
+Per server
+Backups
+Estimated
+Monthly Total
+(above items)
+
+Onboarding /
+Transition
+
+One-time
+
+$697.15
+
+5 servers × $139.43 ($697.15). Includes:
+backup monitoring + verification
+
+$6,398.15
+
+Estimate based on provided counts; final
+scope confirmed during discovery.
+
+$5,000
+
+Scope includes onboarding interviews with
+key stakeholders, environment discovery and
+inventories (users, workstations, servers,
+network devices, and SaaS tenants),
+validation/scoping of in-scope applications
+and dependencies, deployment of
+management and security agents (RMM,
+EDR/MDR, PAM, monitoring), technical
+migrations and cutovers as required (e.g.,
+Microsoft 365 tenant hardening,
+email/DNS/mail-flow changes, backup
+onboarding), documentation/runbook
+creation, and go-live stabilization with posttransition remediation planning.
+
+SLA Summary (Proposed)
+•
+•
+•
+•
+•
+•
+
+Priority 1 (P1 – Critical): Response target: 1 hour; target resolution: 24 hours
+(business hours/days).
+Priority 2 (P2 – High): Response target: 2 hours; target resolution: 48 hours
+(business hours/days).
+Priority 3 (P3 – Medium): Response target: 4 hours; target resolution: 72 hours
+(business hours/days).
+Priority 4 (P4 – Low): Response target: 8 hours; target resolution: 96 hours (business
+hours/days).
+Priority 5 (P5 – Very Low): Response target: N/A; target resolution: 120 hours
+(business hours/days).
+Onsite support: Within 2 business days (per RFP) for issues requiring hands-on
+service; expedited onsite available by request.
+
+Note: These targets are measured in business hours/days (Monday–Friday, 8:00 AM – 5:00
+PM ET). Critical after-hours issues are handled via on-call escalation and after-hours
+technical answering service.
+Onsite support note: MTS can arrange onsite support from our Maryland headquarters with
+2–3 days’ notice. To support more critical and urgent onsite needs, MTS can also seek a
+
+qualified local resource to act as “hands and feet” on an as-needed basis if requested or
+required. Onsite travel is billed on a time-and-materials basis, including travel time and
+reasonable travel expenses (e.g., mileage/fuel, lodging/hotels, and other standard travel
+costs) unless otherwise agreed in writing.
+
+Transition / Onboarding Plan
+1. Kickoff & Discovery: Confirm scope, inventory users/devices/servers, review
+Meraki configuration, Microsoft 365 tenant settings, backup posture, and ERP
+infrastructure dependencies.
+2. Access & Documentation: Establish secure admin access, MFA, documentation
+standards, and baseline diagrams/inventories. Collect vendor contacts (ERP
+support, ISP, cabling, etc.).
+3. Tooling Deployment: Deploy endpoint management, security agents, monitoring,
+and backup (as in scope). Validate alerting and ticket routing.
+4. Stabilization: Resolve inherited issues, standardize patching and baseline
+configurations, implement quick-win security improvements, and confirm servicelevel reporting.
+5. Quarterly Roadmap: Present prioritized improvements and budget options for
+reliability, security, and modernization.
+
+Summary
+MTS is the right choice for Millar Industries because we pair dependable day-to-day
+managed IT with a security-first operating model designed for organizations supporting the
+Defense Industrial Base. With defined ITIL-aligned priorities and SLAs, proactive monitoring
+(including Domotz network monitoring), and a standardized toolset (HaloPSA, Hudu,
+NinjaRMM, Microsoft Defender, Huntress, AutoElevate, and Acronis), we deliver
+predictable service outcomes while reducing operational risk and unplanned downtime.
+We also bring hands-on experience supporting DIB clients and supporting an OSC through
+a successful CMMC Level 2 assessment resulting in a 110 score—experience we can apply
+to help Millar strengthen controls and simplify evidence collection over time. MTS is excited
+for the opportunity to earn your trust, deliver a smooth onboarding, and become a longterm partner focused on reliability, responsiveness, and continual improvement.
+
+

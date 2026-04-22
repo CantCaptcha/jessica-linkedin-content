@@ -20,7 +20,7 @@ WORK_TOKEN = WORK_CRED_DIR / 'token.json'
 
 # All calendars now read from DCG work account (shared calendars)
 CALENDARS = [
-    ('DCG', 'primary', WORK_TOKEN),
+    ('DCG', 'richard.whitaker@cybersecgru.com', WORK_TOKEN),
     ('United', 'teq6qq3e0q1l0nr1leu7kkr78ppju73t@import.calendar.google.com', WORK_TOKEN),
 ]
 

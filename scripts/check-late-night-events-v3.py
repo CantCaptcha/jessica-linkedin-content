@@ -16,7 +16,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 # Configuration
-DISCORD_CHANNEL = "discord:1469388540403253260#bot"
+DISCORD_CHANNEL = "discord:1488952869603377243"
 LATE_NIGHT_HOUR = 21
 ALERT_HOURS_BEFORE = 2
 

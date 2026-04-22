@@ -34,3 +34,32 @@ __pycache__/
 *.key
 *.secret
 .env.local
+
+# Ignore Stevie's secure workspace (Bitwarden exports)
+secure/
+
+# Ignore OAuth tokens and credentials
+skills/gmail/config/token.json
+skills/gmail-personal/config/token.json
+skills/google-calendar/config/token.json
+skills/google-calendar/config/credentials.json
+
+# Ignore runtime data
+logs/
+state/
+backups/
+
+# Ignore temp/test scripts and logs
+*.pyc
+__pycache__/
+*.log
+*.bak
+followup_email.txt
+steris_cmmc_analysis.json
+
+# Ignore Excel files that may contain sensitive data
+*.xlsx
+
+# Ignore MSP RFP PDFs and temp files
+msp-rfps/*.pdf
+msp-rfps/tmp_*.txt

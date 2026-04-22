@@ -1,0 +1,91 @@
+QUOTE
+QUOTE 340
+DATE: 4/14/2026
+
+5253 Linwick Drive
+Fuquay-Varina, NC 27526
+Phone:984-225-5252
+TO:
+MILLAR INDUSTRIES
+20 Loop Rd, Arden, NC 28704
+Phone: 828-687-0639
+
+DESCRIPTION
+Help Desk: PC / Laptop / User
+Threat Locker: Application Control, Geo Fencing, USB
+Control
+Ninja RMM: Helpdesk tool
+
+QUANTITY
+
+UNIT PRICE
+
+TOTAL
+
+40
+
+$100.00
+
+$4,000.00
+
+1
+
+$1,500.00
+
+$1,500.00
+
+30
+
+$5.00
+
+$150.00
+
+3
+
+$250.00
+
+$750.00
+
+1
+
+$500.00
+
+$500.00
+
+SUBTOTAL
+
+$6,900.00
+
+SALES TAX
+
+%7.25
+
+SHIPPING & HANDLING
+
+$0.00
+
+TOTAL DUE
+
+$7,400.25
+
+Price Per Workstation / Server will be adjusted once final
+count has been determined
+System Administration Management:
+Microsoft Admin / SharePoint / Teams / Exchange
+Office 365
+Network Management: Networking (Cisco Meraki)
+On Prem Servers: Updates and management as needed
+(current Count 5)
+Additional Servers beyond 5 monthly cost: $250.00
+Backups (Office 365 Per user)
+Price Per user will be adjusted once final count has been
+determined
+Backups SharePoint / Server Per TB
+Price per TB will be adjusted once final count has been
+discovered
+Tenable Scanner and maintenance (Non-FedRAMP):
+On-prem option: 10.5k yearly, including 3yr server lease
+
+THANK YOU FOR YOUR BUSINESS!
+
+

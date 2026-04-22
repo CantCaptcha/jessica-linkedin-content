@@ -1,0 +1,537 @@
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+Technology Services Proposal
+Manufacturing Client — Defense Industrial Base (DIB)
+Prepared April 2026 | Arden, North Carolina
+
+www.matrixcc.net | April 2026 Page | 1
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+1. Executive Summary
+DCG and their manufacturing client require an IT Managed Services Provider capable of delivering three
+critical outcomes: operational stability, CMMC alignment, and a fully outsourced IT partnership. Matrix
+Computer Consulting is purpose-built for exactly this engagement.
+We have reviewed the RFP and here is what we are going to do:
+• Eliminate recurring network outages and establish proactive infrastructure monitoring within 90
+days
+• Serve as a collaborative CMMC Level 1 partner, collaborating with client and, DCG where
+necessary.
+• Provide a fully outsourced IT experience — owning every aspect of the enterprise environment
+outside the CMMC L2 enclave
+• Deliver responsive, relationship-driven support tailored to a day-shift manufacturing operation
+Matrix brings hands-on experience supporting Defense Industrial Base clients. We also understand the
+realities of supporting distant clients. We support businesses from central Maryland to Texas and users
+of those companies from Peru to Hawaii. We also understand the unique pressure of balancing
+operational uptime with evolving compliance requirements — and we treat both as non-negotiable.
+A word about us: Matrix Computer Consulting was founded in 1999 to do one thing and do it well:
+provide the technology products and services that small businesses need to be successful. We have been
+dedicated to that mission ever since our founding. We know what it takes to get it done and we will get
+you what you need.
+Our relationships with partners such as Microsoft, Calyptix, Dell, Lenovo, Sentinel One, Meraki
+and Connectwise have allowed us the ability to design, scale and implement effective technology
+solutions for our diverse client base. Our solution stack includes a mix of off-the-shelf tech as well as
+custom-designed computing solutions that deliver reliable, cost effective computing environments for our
+customers. As a Microsoft Cloud Solutions Partner, our core competencies revolve around the solutions
+that our clients need.
+Central to this proposal and our sales process is getting you the information and education you need so
+that you can make the right information technology decisions to ease your business' IT concerns in the
+21st century. Our professional services range from day-to-day support activities, office automation,
+server management, Artificial Intelligence, network security, application support – in short, anything
+technology related that your business needs. Matrix Computer Consulting network and system
+engineers’ combined experience allows us to successfully provide custom, affordable solutions to our
+valued Clients.
+
+www.matrixcc.net | April 2026 Page | 2
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+2. Understanding of Your Environment
+Based on the RFP issued by Defense Cybersecurity Group (DCG) and the Q&A clarifications provided,
+we have developed a profile of the client's environment and priorities.
+
+2.1 Facility & User Profile
+Attribute
+
+Detail
+
+Location
+
+Single manufacturing facility — Arden, North Carolina
+(~27,000 sq ft)
+
+Users
+
+~30 users (all North Carolina-based)
+
+Endpoints (Workstations)
+
+~40 managed endpoints
+
+Servers
+
+Less than 5 on-premises servers
+
+Employees
+
+40+ total employees
+
+2.2 Technology Stack
+Platform / System
+
+Notes
+
+Microsoft 365 Business Standard
+
+Core productivity, email, Teams — low complexity
+
+On-Premises ERP (IndustrySpecific)
+
+External application support handled by existing vendor
+partner; MSP responsible for server infrastructure
+maintenance
+
+Cisco Meraki
+
+Full network and firewall management expected — switches,
+APs, security appliances
+
+CMMC Level 1 Controls
+
+Enterprise scope; Level 2 handled via DCG-provided enclave
+(excluded from MSP scope)
+
+2.3 Primary Pain Points & Drivers
+• Consistent network outages with current provider — resolving this is the top operational priority
+• Need for a CMMC-aware MSP that can actively support Level 1 compliance and collaborate with
+DCG on Level 2
+• Desire for a fully outsourced IT model — no internal IT staff; the MSP owns it all
+• Anticipating transition to NIST 800-171 Rev3 controls within the next 1–2 years (Level 1 impact
+only)
+
+www.matrixcc.net | April 2026 Page | 3
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+2.4 Support Model Requirements
+•
+•
+•
+•
+•
+
+Primary support window: Monday–Friday, 7:00 AM – 5:30 PM Eastern
+Occasional weekend support coverage required
+Onsite response: within 2 business days
+Engagement model: fully outsourced (all enterprise IT, excluding Level 2 CMMC enclave)
+Primary support goes through helpdesk.
+
+www.matrixcc.net | April 2026 Page | 4
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+3. 90-Day Stabilization Plan
+Upon engagement, Matrix will execute a structured 90-day onboarding and stabilization plan focused on
+eliminating the network reliability issues that prompted this RFP while establishing the operational
+baseline for ongoing managed services.
+Phase
+
+Phase 1
+
+Phase 2
+
+Phase 3
+
+Timeline
+
+Key Activities
+
+Days 1–30
+
+Full environment audit and documentation; deploy
+RMM and monitoring agents across all endpoints and
+servers; validate backup integrity; establish
+communication cadence with DCG
+
+Days 31–60
+
+Remediate identified network issues; rebuild or
+standardize Meraki configurations; address endpoint
+security gaps; align Level 1 CMMC controls with
+current posture
+
+Days 61–90
+
+Optimize monitoring and alerting thresholds;
+complete onboarding documentation; deliver first
+QBR-ready report; present roadmap for next 12
+months
+
+Network stability is our Day 1 priority. We will assign a senior network engineer to the Meraki
+environment within the first week and will not consider the onboarding phase complete until uptime
+benchmarks are consistently met.
+
+www.matrixcc.net | April 2026 Page | 5
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+4. Scope of Services
+The following service areas are included in the proposed fully outsourced engagement. All services are
+scoped to the enterprise environment; the CMMC Level 2 enclave managed by DCG is explicitly out of
+scope.
+
+4.1 Helpdesk & End User Support
+•
+•
+•
+•
+•
+
+Unlimited helpdesk tickets for ~30 users via phone, email, and remote support portal
+Business hours coverage: Monday–Friday, 7:00 AM – 5:30 PM ET
+Weekend on-call availability for critical/P1 issues
+Remote resolution for majority of incidents; onsite dispatch within 2 business days when required
+Microsoft 365 Business Standard administration — user management, licensing, mailboxes,
+Teams
+
+4.2 Infrastructure & Server Management
+•
+•
+•
+•
+•
+
+Full management of on-premises servers (up to 5 units)
+Patch management — OS and some application-level, scheduled and tested
+Server health monitoring with alerting (24/7 automated)
+Backup management and monthly validation testing
+Coordination with ERP vendor partner for application issues.
+
+4.3 Network Management (Cisco Meraki)
+• Full management of all Meraki network infrastructure — switches, wireless access points, MX
+security appliances, SD-WAN
+• Proactive monitoring, alerting, and performance tuning
+• Firewall policy management and review
+• ISP coordination for outage resolution and circuit management
+• Network documentation maintained and updated continuously
+
+4.4 Out of Scope
+• Additions to the network are chargeable at our normal hourly rate. This can include adding new
+users or computers to the network.
+
+4.4 Security & Compliance Baseline
+• Endpoint Detection and Response (EDR) — deployment and management across all ~40
+workstations
+• Patch management with defined compliance windows
+• Multi-Factor Authentication (MFA) enforcement via Microsoft 365
+• Security awareness training coordination
+• Identity and access management — user provisioning/deprovisioning, role-based access
+• Backup encryption and offsite/cloud copy validation
+
+www.matrixcc.net | April 2026 Page | 6
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+4.5 CMMC Level 1 Compliance Support
+• Ongoing support to retain alignment with all CMMC Level 1 practices across the enterprise
+environment
+• Support policy documentation and maintenance for applicable controls
+• Support evidence collection support for self-assessment preparation
+• Coordination with DCG for boundary definition between enterprise and Level 2 enclave
+• Monitoring and advisory support for NIST 800-171 Rev3 transition as it impacts Level 1 controls
+(anticipated within 24 months)
+
+4.6 vCIO & Strategic Advisory
+•
+•
+•
+•
+•
+
+Dedicated virtual CIO — single point of accountability for the relationship
+Technology Business Reviews (TBRs) with roadmap and budget planning
+Technology lifecycle management and hardware refresh planning
+Vendor management and procurement coordination
+Input on compliance roadmap as CMMC requirements evolve
+
+4.7 Onsite Services
+• May be provided by subcontractor in close proximity to Arden, NC.
+• Fully managed by Matrix and covered by our contracted amount.
+
+5. CMMC Collaboration Model
+Matrix understands the unique structure of this engagement — a DIB manufacturer operating with a split
+compliance model where Level 1 controls are managed across the enterprise, and Level 2 compliance is
+handled through a DCG-managed enclave.
+Our CMMC collaboration model is built around clear ownership, regular coordination with DCG, and no
+ambiguity at the boundary.
+Area
+
+Matrix Responsibility
+
+DCG Responsibility
+
+CMMC Level 1 Controls
+
+Support for implementation,
+documentation, evidence
+
+Advisory and audit support
+
+CMMC Level 2 Enclave
+
+No access / out of scope
+
+Full ownership via DCGmanaged enclave
+
+Boundary Definition
+
+Maintain clear separation of
+enterprise vs. enclave
+
+Define and enforce enclave
+perimeter
+
+www.matrixcc.net | April 2026 Page | 7
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+Area
+
+Matrix Responsibility
+
+DCG Responsibility
+
+NIST 800-171 Rev3
+Transition
+
+Monitor Level 1 impacts,
+provide technical support for
+changes
+
+Lead for Level 2 impacts
+
+Self-Assessment Prep
+
+Support documentation,
+evidence collection for
+enterprise scope
+
+Lead for Level 2 assessment
+activities
+
+Matrix suggests a shared documentation workspace with DCG to ensure alignment is current,
+boundaries are respected, and no compliance gaps emerge at the intersection of enterprise and enclave
+environments.
+
+www.matrixcc.net | April 2026 Page | 8
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+6. Service Level Agreements (SLAs)
+Priority
+
+Description
+
+Response Time
+
+Resolution Target
+
+P1 — Critical
+
+Full site/system
+outage;
+manufacturing
+impact
+
+30 Minutes
+
+2 Hours
+
+P2 — High
+
+Partial outage;
+multiple users
+impacted
+
+30 Minutes
+
+4 Business Hours
+
+P3 — Medium
+
+Single user
+impacted;
+workaround
+available
+
+30 Minutes
+
+1 Business Day
+
+P4 — Low
+
+General requests;
+non-urgent changes
+
+30 Minutes
+
+2 Business Days
+
+•
+•
+•
+•
+•
+
+24/7 automated monitoring with alerting for servers, network, and backup systems
+Onsite dispatch: within 2 business days for any issue requiring physical presence
+Business hours helpdesk: Monday–Friday, 7:00 AM – 5:30 PM Eastern
+Weekend critical coverage included for P1 events
+Monthly uptime and ticket reports delivered to client and DCG
+
+www.matrixcc.net | April 2026 Page | 9
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+7. Investment Summary
+Matrix prices this engagement on a per-user basis, providing full transparency and predictable monthly
+costs. All services described in Section 4 are included in the monthly recurring fee. There are no perticket charges, no per-device overages for the described environment.
+
+7.1 Monthly Recurring Services
+Service
+
+Rate
+
+Estimated Monthly
+
+Fully Managed IT Services (per user)
+
+$150 – $185 / user /
+month
+
+$4,500 – $5,550 / month
+
+User Count Assumption
+
+~30 users
+
+Adjusted at contract
+
+Server backup management (including all
+software/hardware)
+
+$140/month
+
+$700
+
+Includes: Helpdesk, RMM, EDR, Network
+Mgmt, vCIO, CMMC L1 Support
+
+7.2 One-Time Onboarding Fee
+Item
+
+Estimated Investment
+
+Onboarding, Documentation & Environment Audit
+
+$3,000 – $7,500 (based on complexity
+findings)
+
+RMM Agent & Security Tool Deployment (labor)
+
+Included in onboarding fee
+
+90-Day Stabilization Project Management
+
+Included in onboarding fee
+
+Note: Final pricing will be confirmed following an on-site visit to validate assumptions, particularly around
+server complexity, network issues and any additional infrastructure not described in the RFP. Third-party
+licensing costs (Microsoft 365, EDR platform, backup) are passed through at cost unless already
+licensed by the client.
+
+7.3 Contract Terms
+• Initial term: 24 months
+• Month-to-month available at a 15% premium after initial term
+• Annual pricing review tied to CMMC scope changes, headcount, or NIST 800-171 Rev3 transition
+impacts
+• 60-day written termination notice after initial term
+
+www.matrixcc.net | April 2026 Page | 10
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+
+8. Why Matrix Computer Consulting
+Differentiator
+
+What It Means for You
+
+CMMC-Aware MSP
+
+We have assisted several clients with NIST 800-171, CMMC
+compliance and creation of a Classified enclave. We collaborate with
+our clients to help achieve requirements.
+
+Proven Stabilization Track
+Record
+
+We have a structured methodology for taking over unstable
+environments. Network outages and undocumented infrastructure are
+our starting point, not our excuse.
+
+SMB client-Focused
+
+We have spent our time in business ensuring our clients have the right
+IT platform to be succesful.
+
+True Outsourced IT Partner
+
+No internal IT staff? No problem. We are your IT department — not a
+vendor you call when things break.
+
+Cisco Meraki Expertise
+
+We are experienced Meraki administrators. We will take full ownership
+of your network, not just monitor it.
+
+DCG Collaboration Ready
+
+We respect the engagement structure DCG has established and
+welcome a collaborative model for compliance boundary
+management.
+
+9. Next Steps
+We are ready to move forward. Our proposed path to engagement:
+Step
+
+Action
+
+1
+
+Discovery Call (30–45 min) followed by an onsite visit— Validate environment
+assumptions, confirm scope, answer any open questions from DCG or the client
+
+2
+
+Formal Proposal Delivery — Finalize pricing and contract terms based on discovery
+findings
+
+3
+
+Contract Execution — Signed MSA and SOW; onboarding kickoff scheduled
+
+4
+
+Kickoff & Phase 1 Launch — Senior engineer onsite within first week to begin audit
+and monitoring deployment
+
+Matrix Computer Consulting | Technology Partner for the Defense Industrial Base
+www.matrixcc.com
+www.matrixcc.net | April 2026 Page | 11
+
+MATRIX COMPUTER CONSULTING | IT Managed Services Proposal | Confidential
+This proposal is confidential and intended solely for DCG and the referenced manufacturing client.
+
+www.matrixcc.net | April 2026 Page | 12
+
+

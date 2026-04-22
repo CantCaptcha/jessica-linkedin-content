@@ -1,0 +1,2576 @@
+RFP RESPONSE FOR:
+
+Millar Industries
+
+Managed IT Proposal
+Provided by:
+TSAChoice, Inc.
+1 Vance Gap Road
+Asheville, NC 28805
+www.tsachoice.com
+Primary Contact:
+Adrienne Franklin
+Technology Consultant
+afranklin@tsachoice.com
+828-225-3343
+
+April 14, 2026
+
+1
+
+Table of Contents
+1. Executive Summary
+
+3
+
+2. Company Overview & Qualifications
+
+4
+
+3. Network Support Services
+
+6
+
+4. Technology Stack & Tooling
+
+9
+
+5. End User Computing
+
+12
+
+6. Helpdesk Coverage and Capability
+
+14
+
+7. Security & Compliance
+
+17
+
+8. Backup/Disaster Recovery Solutions
+
+20
+
+9. Cloud Services
+
+22
+
+10. Communication Services
+
+24
+
+11. Business Continuity & Incident Response
+
+26
+
+12. Service Level Objectives
+
+28
+
+13. Pricing Structure
+
+31
+
+14. IT Process Management
+
+34
+
+15. Client References
+
+37
+
+16. Reporting & Documentation Examples
+
+40
+
+17. Terms & Conditions Summary
+
+43
+
+2
+
+1. Executive Summary
+TSAChoice, Inc. is pleased to submit this comprehensive proposal to provide Managed IT Services
+to Millar Industries Incorporated. With over 40 years of experience serving businesses throughout
+the Southeast, we bring proven expertise in managing complex IT environments for manufacturing
+and industrial organizations.
+Our proposed solution delivers enterprise-grade IT management with:
+•
+•
+•
+•
+•
+•
+•
+
+24x7x365 proactive monitoring and management of your IT infrastructure
+8x5 remote helpdesk support with 24/7 after-hours emergency response
+Advanced cybersecurity protection including SOC/SIEM, MDR, and Security Awareness
+Training
+Business continuity and disaster recovery solutions with quarterly backup testing
+Comprehensive patch management and automated software updates
+Regular business reviews and strategic IT planning sessions
+Dedicated Technology Consultant as your single point of contact
+
+Our approach is built on industry best practices, proactive maintenance, and a commitment to
+minimizing downtime while maximizing your technology investment. We understand that your IT
+infrastructure is critical to your manufacturing operations, and we are dedicated to ensuring
+continuous uptime, optimal performance, and robust security.
+This proposal addresses all requirements outlined in RFP and demonstrates our capability to serve
+as your trusted technology partner.
+
+3
+
+2. Company Overview & Qualifications
+Company History
+TSAChoice has evolved over four decades to become a comprehensive technology solutions
+provider:
+•
+•
+•
+•
+
+1982: Established as Telephone Systems of Asheville, providing voice solutions for
+businesses in Western North Carolina
+1999: Purchased Choice Computer Center, expanding into IT services and mirroring the
+global convergence of voice and data industries
+2011: Expanded offices and services into Upstate South Carolina
+2026: Approximately 25 dedicated employees serving clients throughout the Southeast
+
+Service Territory & Local Presence
+Our home office is located in Asheville, NC, with an additional office in Greenville, SC. This strategic
+positioning allows us to provide rapid on-site support throughout Western North Carolina and
+Upstate South Carolina. Our service territory encompasses the Southeast United States, with local
+technicians positioned to ensure prompt response times.
+For Millar Industries' location in Arden, NC, we are positioned just minutes away, enabling sameday on-site response when needed.
+
+Core Competencies
+TSAChoice delivers comprehensive IT solutions across multiple domains:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Managed IT Services and Infrastructure Management
+Cybersecurity and Compliance Management
+Disaster Recovery and Business Continuity
+Cloud Infrastructure and Hybrid Solutions
+Network Architecture, Design and Support
+Unified Communications and VoIP Platforms
+Help Desk and End User Support
+Strategic IT Planning and Consulting
+
+Certifications & Strategic Partnerships
+Our team maintains industry-recognized certifications and strategic partnerships:
+•
+•
+•
+•
+•
+•
+
+Microsoft Azure Administrator Associate
+Windows Server Hybrid Administrator Associate
+Microsoft Security+ Certification
+Microsoft Network+ Certification
+Intermedia Platinum Partner
+Microsoft Silver Partner
+
+4
+
+Manufacturing Industry Experience
+TSAChoice has extensive experience supporting manufacturing and industrial clients, including:
+Precision Products (Arden, NC): Established in 1963, specializing in machining, fabrication, power
+coating, and sandblasting. TSAChoice has provided managed IT services since March 2022,
+supporting their 20-employee operation with comprehensive infrastructure management, backup
+solutions, security services, and ongoing technology upgrades.
+We understand the unique IT requirements of manufacturing environments, including:
+•
+•
+•
+•
+•
+
+High availability requirements for production systems
+Integration with specialized manufacturing software and equipment
+Robust network infrastructure to support shop floor operations
+Security considerations for industrial control systems
+Compliance with industry-specific regulations
+
+5
+
+3. Network Support Services
+TSAChoice provides comprehensive network support services designed to ensure optimal
+performance, security, and availability of your IT infrastructure.
+
+24x7x365 Remote Monitoring & Management
+Proactive monitoring is the foundation of effective IT management. Our monitoring solution
+includes:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Software agent-based monitoring deployed on all workstations, servers, and network
+devices
+Custom monitor sets configured specifically for your environment and applications
+Automated error alerts sent directly to TSAChoice engineers for servers and critical systems
+Routine system health checks tracking CPU, memory, disk space, and performance metrics
+Hardware audits maintaining accurate inventory of all IT assets
+Proactive identification of potential issues before they cause downtime
+Monthly performance reports documenting system health, incidents, and resolutions
+Trend analysis to identify patterns and recommend improvements
+
+8x5 Remote Helpdesk Support
+Our remote helpdesk provides responsive support for day-to-day user issues during business hours
+(8 AM - 5 PM EST, Monday through Friday, excluding TSAChoice-observed holidays):
+•
+•
+•
+•
+•
+•
+•
+•
+
+Password resets and account management
+Application troubleshooting and error resolution
+Email and collaboration tool support (Microsoft 365, Teams, Outlook)
+Printer, scanner, and peripheral device issues
+Software installation, configuration, and updates
+Network connectivity troubleshooting
+User training and "how-to" guidance
+Ticket creation, tracking, and documentation
+
+24x7x365 After Hours Emergency Support
+Critical issue support is available around the clock:
+•
+•
+•
+•
+•
+•
+
+Immediate response to critical issues preventing business operations
+Automated monitoring alerts trigger technician notification 24/7
+Emergency phone support for business-critical outages
+Remote and on-site support available as needed
+Non-critical issues reported after hours addressed by next business day
+Documented response times based on priority level (see SLO section)
+
+6
+
+Server Maintenance & Support
+Comprehensive server management to ensure stability and security:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Proactive server maintenance scheduled during off-hours to minimize business impact
+Critical security update installation and testing
+Performance monitoring and optimization
+Disk space management and cleanup
+Service and application monitoring
+Log review and analysis
+Windows Server administration
+Linux server support (best effort)
+
+Network Infrastructure Support
+Complete network management and support services:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Firewall management and security rule administration
+Switch and router configuration and support
+Wireless network management
+VPN configuration and support
+VLAN design and management
+Network documentation and topology mapping
+Bandwidth monitoring and optimization
+Network security assessments
+
+Automated Software Patching
+Systematic patch management to maintain security and stability:
+•
+•
+•
+•
+•
+•
+•
+
+Automated Windows updates for workstations and servers
+Bi-monthly update schedule: Workstations on Thursdays, Servers on Sundays
+Testing and validation before deployment
+Patch reporting and documentation
+Emergency patch deployment for critical security vulnerabilities
+Third-party application updates (Adobe, Java, etc.)
+Rollback procedures if issues arise
+
+Enterprise Antivirus Protection
+Comprehensive endpoint protection across your organization:
+•
+•
+•
+•
+•
+•
+
+Enterprise-grade antivirus deployed on all workstations and servers
+Real-time threat detection and removal
+Centralized management and reporting
+Automatic signature updates
+Quarantine management
+Threat analysis and remediation
+7
+
+•
+
+Integration with MDR and SOC services for advanced threat detection
+
+Documentation & Password Management
+Comprehensive documentation maintained in IT Glue:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Network diagrams and topology maps
+Server and workstation configurations
+Application inventory and licensing
+Network device configurations
+Secure password vault for administrative credentials
+Vendor contact information
+Service provider details
+Disaster recovery procedures
+
+Regular Business Reviews
+Quarterly business review meetings with your dedicated Technology Consultant to discuss:
+•
+•
+•
+•
+•
+•
+•
+
+IT performance metrics and KPIs
+Security posture and threat landscape
+Infrastructure health and recommendations
+Budget planning and technology roadmap
+Upcoming projects and initiatives
+User satisfaction and support quality
+Industry trends and emerging technologies
+
+8
+
+4. Technology Stack & Tooling
+TSAChoice leverages industry-leading technology platforms to deliver comprehensive IT
+management and security services. Our technology stack is carefully selected to provide maximum
+protection, reliability, and value.
+
+Security Solutions
+Advanced Email Threat Protection
+Multi-layered email filtering that permits legitimate email while automatically blocking phishing
+attempts, impersonation attacks, malware, ransomware, and spam messages. This solution
+protects against sophisticated social engineering attacks targeting your employees.
+Email Encryption
+Secure messaging solution for confidential communications. When required by regulations such as
+HIPAA or when handling sensitive business information, emails are automatically encrypted to
+ensure data protection in transit.
+SOC/SIEM Services (Security Operations Center)
+24/7 U.S.-based Security Operations Center providing continuous monitoring of your IT
+environment. This service includes threat hunting, log analysis, incident investigation, and
+immediate notification of potential security breaches. Compliance reporting and audit support
+included.
+MDR - Managed Detection and Response
+Advanced threat detection service providing continuous monitoring of your network and
+endpoints. Using behavioral analytics and threat intelligence, MDR identifies malware,
+ransomware, and intrusions in real-time. Includes rapid incident response capabilities for
+containment, eradication, and recovery from security incidents.
+Dark Web Monitoring
+Proactive monitoring service that scans the dark web to identify compromised or stolen employee
+and customer credentials. Early detection enables rapid response to credential theft, preventing
+unauthorized access to your systems.
+Multifactor Authentication (MFA)
+Enterprise-grade MFA system that provides an additional security layer beyond passwords. Even if
+passwords are compromised, MFA prevents unauthorized access by requiring a second form of
+authentication (mobile app, SMS, or hardware token).
+
+Infrastructure Management Tools
+Next-Generation Firewall (Hardware as a Service)
+Enterprise-class firewall providing comprehensive security including intrusion prevention, content
+filtering, application control, and VPN capabilities. Includes hardware, software licensing, and
+9
+
+ongoing updates. TSAChoice-owned equipment ensures you always have current technology
+without capital investment.
+Remote Connectivity – VPN with Zero Trust Network Access (ZTNA)
+Secure remote access solution integrated with Zero Trust security principles. Access is granted
+based on user identity verification, device security status, and specific permissions. All connections
+are encrypted and continuously monitored to protect company data from remote access
+vulnerabilities.
+Business Continuity Solution (Hardware as a Service)
+Datto-based business continuity platform ensuring operations continue uninterrupted during
+ransomware attacks, server failures, or other outages. Features include rapid recovery capabilities,
+virtualization of failed servers, and cloud-based backup with local recovery appliance.
+Azure Services Integration
+Microsoft Azure cloud services including Azure Active Directory for identity management, Azure
+infrastructure for hybrid cloud deployments, and seamless integration between on-premises and
+cloud resources.
+Microsoft 365 Licensing & Management
+Complete Microsoft 365 productivity suite with various licensing tiers to fit different user needs.
+Includes desktop Office applications, cloud-based Office Online, Exchange Online email, Teams
+collaboration, SharePoint, and OneDrive. TSAChoice manages licensing, provisioning, and support.
+
+Compliance & User Education
+Security Awareness Training
+BullPhish ID cloud-based security awareness training platform for all employees. Includes phishing
+simulation testing, interactive training modules, progress tracking, and reporting. Regular phishing
+tests identify vulnerable users and provide targeted remedial training to reduce human-related
+security risks.
+SaaS Protection for Microsoft 365 and Other Platforms
+Additional protection layer for SaaS applications including Microsoft 365, Google Workspace, and
+Salesforce. Communicates directly with SaaS APIs to provide advanced anti-virus, anti-malware
+protection, and data loss prevention functionality that goes beyond native SaaS security features.
+Compliance Manager (GRC Platform)
+Governance, Risk, and Compliance platform designed to help ensure compliance with regulatory
+standards and industry requirements. Features include policy management, automated compliance
+assessments, compliance logging, and comprehensive reporting. Helps organizations streamline
+compliance efforts, reduce non-compliance risks, and maintain strong security posture. Includes 16
+hours of remediation support for security incidents.
+
+10
+
+Additional Services & Capabilities
+TSAChoice also offers these additional services as needed:
+•
+•
+•
+•
+•
+
+Email Archiving for regulatory compliance and business continuity
+Data Center Colocation services with power, cooling, and physical security
+Network cabling and infrastructure (via certified subcontractor)
+Custom application development and integration support
+Technology procurement and vendor management
+
+11
+
+5. End User Computing
+TSAChoice provides comprehensive end user computing support ensuring employees have the
+tools and assistance needed to remain productive.
+
+Workstation Management
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Windows 10/11 Professional and Enterprise workstation support
+macOS support on a best-effort basis
+Hardware lifecycle management and replacement planning
+Automated software deployment and updates
+User profile management and configuration
+Device replacement coordination with minimal downtime
+New employee workstation setup and configuration
+Employee offboarding with proper data preservation and security
+Hardware inventory tracking via automated tools
+
+Application Support
+Comprehensive support for business applications:
+•
+•
+•
+•
+•
+•
+•
+
+Microsoft Office Suite (Word, Excel, PowerPoint, Outlook, Access, Publisher)
+Microsoft 365 cloud applications (Teams, SharePoint, OneDrive, Planner)
+Web browsers (Chrome, Edge, Firefox)
+PDF readers and productivity tools (Adobe Acrobat, etc.)
+VPN clients and remote access applications
+Line-of-business applications (with active vendor support agreements)
+Industry-standard utilities and tools
+
+Important Note: For specialized line-of-business applications (ERP, MRP, accounting software, etc.),
+client must maintain active support agreements with software vendors. TSAChoice provides
+connectivity troubleshooting, integration support, and coordinates with vendors as needed for
+complex issues.
+
+Mobile Device Management
+•
+•
+•
+•
+•
+•
+•
+
+Mobile email configuration for iOS and Android devices
+Mobile device security policy enforcement
+Remote wipe capabilities for lost or stolen devices
+Mobile application deployment and management
+Mobile VPN configuration
+Troubleshooting mobile device connectivity issues (best effort)
+BYOD (Bring Your Own Device) policy support
+
+Peripheral Device Support
+Support for common peripheral devices:
+
+12
+
+•
+•
+•
+•
+•
+•
+
+Network printer configuration and troubleshooting
+Scanner configuration and document management integration
+External hard drives and USB devices
+Monitors and display adapters
+Keyboards, mice, and input devices
+Webcams and audio equipment for video conferencing
+
+Note: Printer repair is not included in managed services. We recommend maintaining separate
+support contracts with equipment manufacturers or office machine resellers for hardware repairs.
+
+13
+
+6. Helpdesk Coverage and Capability
+Support Philosophy
+Remote First Approach: TSAChoice makes every effort to resolve problems and requests remotely
+before dispatching an engineer to the customer site. This approach ensures faster resolution times,
+reduces costs, and minimizes disruption to your operations. Our remote support tools allow us to
+securely access systems and resolve most issues without an on-site visit.
+
+Onsite Support When Needed: When issues cannot be resolved remotely, TSAChoice dispatches
+qualified technicians to your location. Our local presence in Western North Carolina (just minutes
+from your Arden location) ensures rapid on-site response. Same-day service is typically available for
+critical issues.
+
+Coverage Hours
+Support Level
+Standard Support (8x5)
+After Hours Emergency Support
+
+Hours of Coverage
+Monday through Friday
+8:00 AM - 5:00 PM (EST)
+Excluding TSAChoice-observed holidays
+5:00 PM – 8:00 AM (EST) weekdays
+Weekends and Holidays
+(Critical/Emergency issues only)
+
+Critical Issue Definition
+Critical issues requiring after-hours support are defined as problems preventing necessary business
+functions including:
+•
+•
+•
+•
+•
+•
+
+Complete network access outages affecting multiple users
+System or server failures preventing access to critical applications
+Business communications disruptions (email, phone systems)
+Critical infrastructure failures (servers, storage, core network equipment)
+Security incidents requiring immediate response (ransomware, breaches)
+Data loss situations requiring immediate recovery actions
+
+Support Access Channels
+Multiple channels are available to request support:
+
+14
+
+Channel
+Phone (Primary for Urgent Issues)
+Email
+Support Portal
+Automated Monitoring Alerts
+
+Contact Information
+1-800-264-6878
+itsupport@tsachoice.com
+tsachoice.com
+System-generated (24/7)
+
+Important: All Priority 1 (Critical) issues should be reported via phone for immediate response.
+Email and portal submissions are monitored regularly but may have delayed response for urgent
+issues.
+
+Ticketing System & Tracking
+All support requests are tracked through our professional ticketing system:
+•
+•
+•
+•
+•
+•
+•
+
+Unique ticket number assigned to each request
+Email notifications for ticket updates and resolutions
+Complete history of all support interactions
+Priority-based routing and escalation
+Time tracking for all work performed
+Knowledge base integration for faster resolutions
+Reporting and analytics for service quality monitoring
+
+Escalation Process
+TSAChoice follows a structured escalation process to ensure timely resolution:
+Tier 1 - Help Desk
+•
+•
+•
+
+Initial point of contact for all support requests
+Handles routine issues: password resets, basic troubleshooting, user questions
+Escalates complex issues to Tier 2 within 30 minutes if unable to resolve
+
+Tier 2 - Advanced Support
+•
+•
+•
+•
+
+Experienced technicians for complex technical issues
+Server and network administration tasks
+Application troubleshooting and configuration
+Escalates to Tier 3 or coordinates with external vendors as needed
+
+Tier 3 - Engineering
+•
+•
+•
+•
+
+Senior engineers and architects
+Complex infrastructure projects and issues
+Architecture design and major system changes
+Coordinates with external vendors and manufacturers
+
+15
+
+Management Escalation
+•
+•
+•
+•
+
+Priority 1 issues unresolved after 4 hours
+Client dissatisfaction or service quality concerns
+Major incidents requiring executive involvement
+Contractual or billing concerns
+
+16
+
+7. Security & Compliance
+TSAChoice takes a comprehensive, multi-layered approach to cybersecurity, recognizing that
+effective security requires both technology solutions and user education.
+
+Security Appliance Management
+Comprehensive management of security infrastructure:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Next-generation firewall configuration and rule management
+Intrusion Prevention System (IPS) monitoring and tuning
+Content filtering and web security policies
+VPN configuration and secure remote access
+Network segmentation and access control
+Regular security policy reviews and updates
+Firmware and security patch management
+Log analysis and threat detection
+
+Endpoint Security
+•
+•
+•
+•
+•
+•
+•
+•
+
+Enterprise antivirus deployed on all workstations and servers
+MDR (Managed Detection and Response) for advanced threat detection
+Endpoint Detection and Response (EDR) capabilities
+Real-time threat monitoring and automated response
+Ransomware protection and behavioral analysis
+Application whitelisting capabilities
+USB device control and data loss prevention
+Centralized management and reporting
+
+Email Security
+•
+•
+•
+•
+•
+•
+•
+•
+
+Advanced Email Threat Protection against phishing and malware
+Spam filtering and email hygiene
+Email encryption for sensitive communications
+Attachment sandboxing for suspicious files
+URL rewriting and malicious link protection
+Impersonation detection and prevention
+DMARC, SPF, and DKIM email authentication
+Email archiving and retention (optional)
+
+Identity & Access Management
+•
+•
+•
+•
+•
+•
+
+Multifactor Authentication (MFA) for all administrative accounts
+MFA enforcement for remote access (VPN, cloud applications)
+Strong password policies and enforcement
+Privileged access management
+Account provisioning and deprovisioning procedures
+Regular access reviews and audits
+17
+
+•
+•
+
+Single Sign-On (SSO) integration capabilities
+Conditional access policies based on risk
+
+Security Monitoring Services
+24/7 security monitoring through our SOC/SIEM partnership:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Continuous log collection and analysis from all security devices
+Real-time threat detection and alerting
+Security event correlation and investigation
+Threat hunting to identify hidden risks
+Incident response and containment
+Compliance reporting and audit support
+Monthly security reports with trends and recommendations
+Integration with MITRE ATT&CK framework
+
+Compliance Management
+Support for various compliance requirements:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Documentation of security controls and policies
+Regular compliance assessments
+Audit log retention and management
+Policy development and enforcement
+Compliance gap analysis and remediation planning
+Vendor risk assessment support
+Annual security policy reviews
+Compliance reporting for auditors
+
+Note: Comprehensive compliance management services (including PCI DSS, HIPAA, SOC 2) are
+available through our Compliance Manager offering with dedicated GRC platform and consulting
+services.
+
+Security Awareness Training
+Regular security training program to reduce human-related risks:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Quarterly phishing simulation campaigns
+Interactive security awareness training modules
+Targeted remedial training for users who fail phishing tests
+Training on password security, social engineering, and safe computing
+Metrics and reporting on training effectiveness
+Executive dashboards showing organizational risk levels
+Compliance training documentation
+Customizable training content for your industry
+
+18
+
+Vulnerability Management
+Proactive identification and remediation of vulnerabilities:
+•
+•
+•
+•
+•
+•
+•
+
+Automated patch management for operating systems and applications
+Regular vulnerability scanning capabilities (via RapidFire Tools)
+Prioritization of vulnerabilities based on risk
+Remediation tracking and reporting
+Emergency patching for critical zero-day vulnerabilities
+Coordination with vendors for application patches
+Quarterly vulnerability assessment reports
+
+Note: Formal penetration testing and comprehensive vulnerability assessments are available as
+additional services through our security partners.
+
+Dark Web Monitoring
+Proactive monitoring for compromised credentials:
+•
+•
+•
+•
+•
+•
+•
+
+Continuous scanning of dark web forums and marketplaces
+Detection of compromised employee credentials
+Detection of stolen customer data
+Immediate alerts when breaches are discovered
+Guidance on credential reset and breach response
+Regular reporting on discovered threats
+Integration with identity protection services
+
+19
+
+8. Backup/Disaster Recovery Solutions
+TSAChoice implements comprehensive backup and disaster recovery solutions to protect your
+critical data and ensure business continuity.
+
+Backup Strategy
+Multi-layered backup approach following industry best practices:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Daily automated backups of all servers and critical systems
+Incremental backups throughout the day for minimal data loss
+Local backup appliance for rapid recovery
+Cloud-based offsite backup replication for disaster protection
+Backup retention policies meeting business and regulatory requirements
+Encrypted backups both in transit and at rest
+Backup of virtual machines, physical servers, and cloud workloads
+File-level and full system recovery capabilities
+
+Backup Monitoring & Testing
+•
+•
+•
+•
+•
+•
+•
+•
+
+Daily automated backup verification and reporting
+Proactive alerting for failed or incomplete backups
+Quarterly backup restoration testing to verify recoverability
+Documentation of test results and recovery times
+Backup storage capacity monitoring
+Regular review of backup policies and retention
+Monthly backup status reports
+Annual disaster recovery testing
+
+Important: Backup testing can only be performed on TSAChoice-installed and maintained backup
+systems. For existing backup solutions, we provide monitoring and alerting but cannot guarantee
+recovery without testing.
+
+Business Continuity Solution
+Datto-based business continuity platform providing:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Rapid recovery from ransomware attacks and system failures
+Local virtualization of failed servers for immediate business continuity
+Cloud-based recovery if local appliance is unavailable
+Screenshot verification of successful backups
+Instant recovery of files, folders, or entire systems
+Disaster recovery as a service (DRaaS)
+Regular recovery time objective (RTO) and recovery point objective (RPO) assessments
+Failover and failback procedures
+
+20
+
+Recovery Capabilities
+Multiple recovery options based on the situation:
+Recovery Type
+File-Level Recovery
+Application Recovery
+Server Virtualization
+Full Server Restore
+
+Description
+Restore individual files or
+folders
+Restore specific application
+data
+Run failed server as virtual
+machine
+Complete server rebuild and
+restoration
+
+Typical RTO
+Minutes
+< 1 Hour
+< 4 Hours
+< 24 Hours
+
+Disaster Recovery Planning
+Comprehensive disaster recovery planning and documentation:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Documented disaster recovery procedures
+Recovery time objectives (RTO) defined for each system
+Recovery point objectives (RPO) defined for each system
+Disaster recovery team roles and responsibilities
+Emergency contact procedures
+Regular disaster recovery plan reviews and updates
+Coordination with business continuity planning
+Post-incident analysis and lessons learned
+
+21
+
+9. Cloud Services
+TSAChoice provides comprehensive cloud services management, helping organizations leverage
+cloud technologies while maintaining security and cost control.
+
+Cloud Storage & Hosting
+•
+•
+•
+•
+•
+•
+•
+•
+
+Microsoft Azure infrastructure management
+Azure Virtual Machines (IaaS) deployment and support
+Azure storage solutions (Blob, File, Disk)
+OneDrive for Business file storage and synchronization
+SharePoint Online document management and collaboration
+Cloud capacity planning and optimization
+Cost management and billing optimization
+Hybrid cloud integration with on-premises infrastructure
+
+Cloud Backup Solutions
+•
+•
+•
+•
+•
+•
+•
+•
+
+Cloud-replicated backups for offsite protection
+Azure Backup integration for cloud workloads
+Long-term backup retention in cloud storage
+Geo-redundant storage for maximum protection
+Cloud-to-cloud backup for SaaS applications
+Backup data encryption and security
+Cloud disaster recovery capabilities
+Cost-effective tiered storage options
+
+SaaS Migration Support
+Expert guidance for cloud migration projects:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Assessment of current infrastructure and applications
+Cloud readiness evaluation
+Migration planning and strategy development
+Data migration and synchronization
+Application compatibility testing
+User training and change management
+Post-migration support and optimization
+Hybrid environment management during transition
+
+22
+
+Microsoft 365 Management
+•
+•
+•
+•
+•
+•
+•
+•
+
+License provisioning and management
+User account administration
+Exchange Online email configuration and support
+Teams administration and policy management
+SharePoint site creation and permissions management
+OneDrive configuration and troubleshooting
+Security and compliance policy configuration
+Usage reporting and analytics
+
+Azure Active Directory Management
+•
+•
+•
+•
+•
+•
+•
+•
+
+User and group management
+Conditional access policies
+Azure AD Connect for hybrid identity
+Self-service password reset configuration
+Application integration and SSO
+Azure AD security monitoring
+Guest user access management
+Multi-tenant environment support
+
+23
+
+10. Communication Services
+TSAChoice provides comprehensive support for modern communication platforms, leveraging our
+heritage as a telecommunications provider since 1982.
+
+Email Management
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Microsoft Exchange Online administration
+Email account provisioning and configuration
+Distribution list and shared mailbox management
+Email client configuration (Outlook, mobile devices)
+Email migration services
+Email retention and archiving policies
+Mailbox quota management
+Email troubleshooting and support
+Spam and phishing protection
+Email encryption setup
+
+VoIP/Phone System Support
+As an Intermedia Platinum Partner, TSAChoice provides expert VoIP support:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Hosted VoIP system deployment and configuration
+Phone system administration and user management
+Desk phone configuration and provisioning
+Softphone and mobile app setup
+Call routing and auto-attendant configuration
+Voicemail and unified messaging
+Call quality monitoring and troubleshooting
+SIP trunk management
+Emergency calling (E911) configuration
+Integration with business applications
+
+Collaboration Tools (Microsoft 365)
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Microsoft Teams deployment and administration
+Teams channel and team creation
+Teams meeting policies and settings
+Teams Phone System integration
+SharePoint Online site provisioning
+Document library configuration
+Workflow and automation setup (Power Automate)
+Yammer/Viva Engage community management
+OneDrive sharing and collaboration policies
+User training and adoption support
+
+24
+
+Video Conferencing Support
+•
+•
+•
+•
+•
+•
+•
+•
+
+Microsoft Teams meetings setup and support
+Meeting room equipment configuration
+Webcam and audio device troubleshooting
+Screen sharing and presentation support
+Meeting recording configuration
+Guest access setup
+Integration with calendar systems
+Network optimization for video quality
+
+25
+
+11. Business Continuity & Incident Response
+TSAChoice maintains comprehensive plans and procedures to ensure rapid response and recovery
+from various disaster scenarios.
+
+Disaster Response Plan
+TSAChoice maintains a detailed Disaster Response Plan covering three primary disaster categories:
+Natural Disasters, Data Loss Incidents, and Ransomware Attacks. Our plan includes:
+•
+•
+•
+•
+•
+•
+
+Designated Disaster Response Team with defined roles and responsibilities
+Clear communication protocols for client notification
+Specific response procedures for each disaster type
+Documented recovery procedures and timelines
+Regular plan testing and updates
+Integration with client business continuity plans
+
+Natural Disaster Response
+Procedures for responding to physical disasters affecting facilities or infrastructure:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Immediate assessment of impact and affected systems
+Activation of backup systems and failover procedures
+Alternative command center establishment if needed
+Work-from-home procedures for TSAChoice staff
+Mobile equipment deployment for emergency connectivity
+Coordination with vendors for emergency equipment
+Regular client status updates every 4-6 hours
+Systematic service restoration prioritized by business impact
+
+Data Loss Incident Response
+•
+•
+•
+•
+•
+•
+•
+•
+
+Immediate assessment of scope and business impact
+Root cause analysis (hardware failure, user error, etc.)
+Identification of most recent viable backup
+Recovery time objective calculation
+Restoration to staging environment for validation
+Production restoration during approved change window
+Post-incident documentation and analysis
+Data recovery specialist engagement if needed
+
+26
+
+Ransomware Attack Response
+Comprehensive ransomware response procedures (TSAChoice policy: no ransom payments):
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Immediate system isolation to prevent spread (within 30 minutes)
+Full Disaster Response Team activation
+All remote access disabled (VPN, RDP)
+Administrative password changes across environment
+Backup system verification and isolation
+Initial infection vector identification
+Cyber insurance notification (if applicable)
+External incident response engagement if needed
+Restoration from clean backups (preferred method)
+Post-incident security hardening and improvements
+
+Incident Response Procedures
+Systematic approach to all incidents:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Incident detection and logging
+Initial assessment and prioritization
+Containment and mitigation actions
+Root cause analysis
+Resolution and recovery
+Post-incident review and lessons learned
+Documentation and reporting
+Preventive measures implementation
+
+Backup Verification
+•
+•
+•
+•
+•
+•
+•
+•
+
+Daily automated backup success verification
+Weekly backup report review
+Monthly backup integrity checks
+Quarterly full restoration testing
+Annual disaster recovery drills
+Documentation of all test results
+Immediate notification of backup failures
+Proactive capacity planning
+
+27
+
+12. Service Level Objectives (SLO)
+TSAChoice commits to defined service level objectives ensuring consistent, high-quality support.
+
+Priority Levels and Response Times
+All support requests are categorized into priority levels based on business impact and urgency.
+Response and resolution times are measured during business hours unless 24/7 support is
+required.
+Priority 1 (P1) - Critical
+Response Time
+Resolution Target
+Status Updates
+
+1 hour
+4 hours
+Every 2 hours until resolved
+
+Definition: Critical issues causing complete business stoppage or severe degradation of production
+systems affecting multiple users or core business functions.
+Examples of P1 Critical Issues:
+•
+•
+•
+•
+•
+•
+•
+
+Complete network outage affecting entire office
+Email server down - no email access for all users
+Primary line-of-business application completely unavailable
+Server/host system down affecting critical business operations
+Complete backup system failure
+Ransomware or active security breach
+Critical data loss with no backup available
+
+Priority 2 (P2) - High
+Response Time
+Resolution Target
+Status Updates
+
+4 hours
+8 business hours
+As needed
+
+Definition: Significant issues affecting multiple users or important business functions, but with a
+temporary workaround available.
+Examples of P2 High Priority Issues:
+•
+•
+•
+•
+•
+
+Network performance severely degraded
+Email delays or partial email functionality loss
+Key business application performance issues
+VPN connection issues affecting remote workers
+Security system alerts requiring immediate attention
+
+28
+
+Priority 3 (P3) - Medium
+Response Time
+Resolution Target
+Status Updates
+
+8 business hours
+3 business days
+As needed
+
+Definition: Issues affecting individual users or non-critical systems. Business operations can
+continue with minimal disruption.
+Examples of P3 Medium Priority Issues:
+•
+•
+•
+•
+•
+
+Single user unable to access email
+Individual workstation performance issues
+Peripheral device not working (single printer, scanner)
+Password reset requests
+Minor software bugs not affecting productivity
+
+Priority 4 (P4) - Low
+Response Time
+Resolution Target
+Status Updates
+
+2 business days
+5 business days
+Upon request or resolution
+
+Definition: Requests for information, minor issues, or planned changes that do not impact current
+operations.
+Examples of P4 Low Priority Items:
+•
+•
+•
+•
+•
+
+General questions or 'how-to' inquiries
+Feature requests
+Software installation requests (non-urgent)
+New user setup (planned)
+Documentation requests
+
+Performance Metrics
+TSAChoice tracks key performance indicators to ensure quality service delivery:
+•
+•
+•
+•
+•
+•
+
+First Response Time (FRT): Percentage of tickets meeting response time targets
+Resolution Time: Percentage of tickets meeting resolution time targets
+Customer Satisfaction Score (CSAT): Target of 85% or higher
+Ticket Reopening Rate: Target below 5%
+SLA Compliance Rate: Target of 95% or higher
+Mean Time to Resolution (MTTR): Tracked by priority level
+
+Service Exclusions and Limitations
+The following items are not covered under standard managed services:
+29
+
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Issues caused by client actions or unauthorized changes
+Hardware failures due to age, misuse, or manufacturer backorder
+Third-party application support (unless specifically contracted)
+Internet Service Provider (ISP) outages
+Force majeure events (natural disasters, power outages beyond our control)
+Hardware or software at end of manufacturer support
+Client-imposed changes that prevent service delivery
+Home network or personal IT equipment support
+Network cabling and wiring (available via subcontractor)
+
+30
+
+13. Pricing Structure
+TSAChoice offers flexible, transparent pricing based on your specific IT environment and service
+needs.
+
+Pricing Methodology
+Our pricing is based on a per-device model that includes comprehensive management and support:
+•
+•
+•
+•
+•
+•
+
+Number of workstations under management
+Number of servers under management
+Network devices (firewalls, switches)
+Number of office locations
+Optional services selected (SOC/SIEM, MDR, Compliance Manager, etc.)
+Cloud services and licensing (Microsoft 365, Azure, etc.)
+
+Base Managed Services Package
+The base managed services package includes all services described in Section 3 (Network Support
+Services) and provides comprehensive IT management at a predictable monthly cost.
+Base services include:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+24x7x365 remote monitoring and alerting
+8x5 remote helpdesk support
+24/7 after-hours emergency support
+Automated patch management
+Enterprise antivirus
+Daily backup monitoring
+Monthly performance reports
+Quarterly business reviews
+Password and documentation management
+
+31
+
+Services Included for Millar Industries RFP
+Additional security and compliance services available:
+Service
+SOC/SIEM Services
+MDR (Managed Detection & Response)
+Security Awareness Training
+Advanced Email Threat Protection
+Dark Web Monitoring
+Compliance Manager
+Firewall (Hardware as a Service)
+Business Continuity Appliance
+Microsoft 365 Licensing
+Multifactor Authentication
+
+Pricing Model
+Included
+Included
+Included
+Included
+Included
+Included
+Included
+Included
+Included
+Included
+
+Pricing Terms
+•
+•
+•
+•
+•
+•
+•
+•
+
+36-month Initial Term with automatic annual renewal
+30-day cancellation notice required
+Monthly invoicing (5% discount for annual prepayment)
+Pricing adjustments based on device count changes
+Minimum 80% of contracted amount maintained
+Cloud services billed at cost plus management fee
+Projects and MACs (Moves/Adds/Changes) quoted separately
+After-hours non-emergency work billed at discounted rates
+
+Note: TSAChoice reserves the right to adjust pricing annually by up to 5% to accommodate
+economic factors beyond our control. Vendor rate increases will be passed through with 90-day
+advance notice. All pricing adjustments are made transparently with detailed explanation.
+
+Custom Quote
+A detailed, customized quote for Millar Industries will be provided upon completion of a
+comprehensive IT environment assessment. This assessment will include:
+•
+•
+•
+•
+•
+•
+•
+
+Inventory of all workstations, servers, and network devices
+Review of current IT infrastructure and applications
+Assessment of security posture and vulnerabilities
+Backup and disaster recovery capability evaluation
+Discussion of business requirements and priorities
+Recommendation of appropriate service levels and add-ons
+Detailed pricing proposal with implementation timeline
+
+32
+
+33
+
+14. IT Process Management
+TSAChoice follows structured IT management processes based on industry best practices (ITIL
+framework) to ensure consistency, quality, and continuous improvement.
+
+Change Management
+All changes to IT infrastructure follow a formal change management process to minimize risks and
+disruptions:
+Change Categories
+Emergency Changes: Immediate action required for critical incidents or security vulnerabilities.
+Expedited approval by on-call manager. Documented retrospectively.
+Standard Changes: Pre-approved, low-risk routine changes (patches, password resets, standard
+equipment). No formal approval required.
+Normal Changes: All other changes requiring formal review and approval (infrastructure upgrades,
+major software updates, system implementations).
+Change Request Process
+• Change request submission (minimum 5 business days advance for normal changes)
+• Technical feasibility assessment by TSAChoice engineers
+• Risk assessment (Low, Medium, High)
+• Impact analysis and documentation
+• Approval by appropriate authority level
+• Scheduling in change calendar
+• Pre-implementation communication to affected users
+• Implementation following documented procedures
+• Testing and validation
+• Rollback if issues occur
+• Post-implementation notification and documentation
+Change Windows
+Preferred maintenance windows to minimize business impact:
+•
+•
+•
+•
+
+Client Systems: After business hours or weekends (coordinated with client)
+Critical Changes: Scheduled during mutually agreed low-usage periods
+Emergency Changes: As required, 24/7
+Change Freeze Periods: No non-emergency changes during major holidays or critical
+business periods
+
+34
+
+Incident Management
+Systematic approach to handling unplanned interruptions or service quality degradation:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Incident detection (monitoring alerts, user reports, automated systems)
+Incident logging and categorization
+Priority assignment based on business impact
+Initial diagnosis and triage
+Escalation to appropriate support tier
+Resolution and recovery
+Incident closure and documentation
+Root cause analysis for major incidents
+Problem management to prevent recurrence
+
+Problem Management
+Proactive identification and resolution of recurring issues:
+•
+•
+•
+•
+•
+•
+•
+
+Trend analysis of incidents to identify recurring problems
+Root cause investigation
+Known error documentation
+Workaround development
+Permanent solution implementation
+Knowledge base article creation
+Monitoring to verify resolution effectiveness
+
+Configuration Management
+Maintenance of accurate IT asset and configuration information:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Comprehensive IT asset inventory in management platform
+Configuration item (CI) documentation
+Hardware and software version tracking
+Network topology documentation
+Relationship mapping between systems
+Regular audits to ensure accuracy
+Change tracking and version control
+Documentation updates with every change
+
+35
+
+Service Reporting
+Regular reporting and performance metrics:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Monthly performance reports (uptime, incidents, response times)
+Security reports (SOC/SIEM findings, vulnerabilities)
+Backup status reports (success rates, storage utilization)
+Security awareness training results (phishing test performance)
+Ticket statistics and trends
+Capacity planning recommendations
+Quarterly business review presentations
+Annual IT strategy and roadmap planning
+
+Knowledge Management
+Building and maintaining organizational IT knowledge:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Internal knowledge base for common issues and solutions
+Procedure documentation for all routine tasks
+Best practice guides
+Troubleshooting flowcharts
+Vendor contact information and escalation procedures
+System configuration documentation
+Regular knowledge base reviews and updates
+Knowledge transfer during staff transitions
+
+Continuous Service Improvement
+Ongoing optimization of IT services and processes:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Regular process reviews and optimization
+Lessons learned from incidents and projects
+User satisfaction surveys
+Performance metric analysis
+Industry best practice adoption
+Technology refresh planning
+Staff training and certification
+Innovation and emerging technology evaluation
+
+36
+
+15. Client References
+TSAChoice is proud to serve diverse clients across multiple industries. The following references
+demonstrate our capability to deliver quality managed IT services.
+
+Reference 1: Precision Products
+Company
+Location
+Industry
+Established
+Employees
+Annual Revenue
+
+Precision Products
+Arden, NC
+Manufacturing (Machining, Fabrication, Power
+Coating, Sandblasting)
+1963
+Approximately 20
+~$7 million
+
+Service Period: March 2022 - Present
+Services Provided:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Complete IT infrastructure management
+Support and backup of 3 on-premise servers
+Monitoring and support of workstations
+Firewall support and security management
+Advanced Email Threat Protection
+Multifactor Authentication (MFA)
+SaaS Protection
+MDR (Managed Detection and Response)
+Intermedia hosted UC platform (Elevate) for two locations
+New server and Datto backup solution deployment
+Manufacturing facility Wi-Fi upgrade
+Aging switch infrastructure replacement
+Quote and installation of Windows 10 workstations
+
+Key Success: Successfully supported critical manufacturing operations with minimal downtime
+while implementing comprehensive security improvements and infrastructure modernization.
+
+37
+
+Reference 2: Gentry Service Group
+Company
+Location
+Industry
+Established
+Employees
+Annual Revenue
+
+Gentry Service Group (Division of Service Logic)
+Swannanoa, NC
+HVAC Services (Residential and Commercial)
+1963
+Approximately 54
+~$15.1 million
+
+Service Period: December 2023 - Present
+Services Provided:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Support and backup of 2 on-premise servers
+Monitoring and support of 45 workstations
+Microsoft 365 licensing management
+Advanced Email Threat Protection
+Multifactor Authentication (MFA)
+Dark Web Monitoring
+SaaS Protection
+Multiple workstation replacements
+Aging switch infrastructure replacement
+Secondary office establishment with network infrastructure
+Local firewall support coordination with parent company
+Application rollout assistance for parent company initiatives
+
+Key Success: Successfully integrated with parent company (Service Logic) IT requirements while
+providing local support and implementing security improvements. Established new office location
+with complete network infrastructure.
+Note: Co-management arrangement with Service Logic for SOC/SIEM services and enterprise-wide
+security initiatives, demonstrating TSAChoice's ability to work collaboratively within complex
+organizational structures.
+
+38
+
+Reference 3: Read’s Uniforms
+Company
+Location
+Industry
+Established
+Employees
+Annual Revenue
+
+Read’s Uniforms
+Asheville, NC
+Retail (Embroidery, Shipping, E-Commerce)
+1991
+Approximately 100
+~$11.6 million
+
+Service Period: March 2020 - Present
+Services Provided:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Complete IT infrastructure management
+Support and backup Azure
+Monitoring and support of workstations
+Firewall support and security management
+Advanced Email Threat Protection
+Multifactor Authentication (MFA)
+SaaS Protection
+MDR (Managed Detection and Response)
+Intermedia hosted UC platform (Elevate) for
+HQ located in Asheville with 19 locations; through Southeast US
+Aging switch infrastructure replacement at 19 locations; initial setup of new retail stores
+with full network infrastructure by our technicians
+Asset Management with 130 workstations throughout 19 locations
+
+Key Success: Assisted with migration from on-prem servers to Azure environment for filesharing
+across all locations in Southeast; continue to leverage technology to meet and exceed customer’s
+desired outcome.
+
+39
+
+16. Reporting & Documentation Examples
+TSAChoice provides comprehensive reporting and documentation to ensure transparency and
+enable data-driven decision making. Examples of our standard reports are included in
+supplementary materials.
+
+Security Operations Center (SOC/SIEM) Reports
+Monthly ArmorPoint SOC/SIEM Activity Summary reports provide comprehensive security
+monitoring insights:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Active Devices monitoring summary
+Windows, Linux, and Syslog log ingestion statistics
+Event summary by rule name and severity
+Alerts by resolution status
+Network information (top source/destination IPs, geographic analysis)
+IPS (Intrusion Prevention System) events and analysis
+Application risk categorization (Critical, High, Medium, Low)
+Windows authentication information (successful logons, failed attempts)
+Cybereason threat detection events
+Detailed incident investigation findings
+
+Example Report: A redacted ArmorPoint Activity Summary is included in supplementary materials,
+demonstrating the depth of security monitoring and reporting provided.
+
+Security Awareness Training Reports
+Quarterly BullPhish ID Security Awareness Training reports track user security behavior and training
+effectiveness:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Phishing simulation campaign results
+Users who clicked phishing links or submitted credentials
+Training course completion rates
+Users by risk level (based on phishing test performance and training completion)
+Remedial training assignment and completion
+Trend analysis showing improvement over time
+Department and individual risk scoring
+Executive dashboard with key metrics
+
+Example Report: A redacted Q1 2026 BullPhish Report is included in supplementary materials,
+showing phishing test results and training completion statistics.
+
+40
+
+IT Infrastructure Reports
+Monthly IT infrastructure performance and health reports include:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+System uptime and availability statistics
+Server performance metrics (CPU, memory, disk utilization)
+Network bandwidth utilization
+Backup success rates and storage utilization
+Patch compliance status
+Antivirus detection and remediation statistics
+Help desk ticket summary (volume, response times, resolution rates)
+Open issues and action items
+Capacity planning recommendations
+
+Ticket and Support Metrics
+Detailed support metrics tracked and reported monthly:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Total tickets opened and closed
+Tickets by priority level
+Average response time by priority
+Average resolution time by priority
+SLA compliance percentage
+Ticket reopening rate
+Top issues and trends
+User satisfaction scores
+Technician performance metrics
+After-hours support utilization
+
+Quarterly Business Review Format
+Comprehensive quarterly business reviews with executive leadership include:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Executive summary of quarter performance
+Infrastructure health and stability metrics
+Security posture assessment and incidents
+Backup and disaster recovery status
+Help desk performance and user satisfaction
+Project updates and completions
+Budget review and forecast
+Technology roadmap and recommendations
+Industry trends and emerging threats
+Action items and next quarter planning
+
+41
+
+IT Documentation
+Comprehensive documentation maintained in IT Glue platform:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Network topology diagrams
+Server and application configurations
+Network device configurations
+IP address schemes and VLAN documentation
+Software licensing inventory
+Vendor contact information
+Service provider credentials and support contacts
+Standard operating procedures
+Disaster recovery runbooks
+Change history and audit logs
+
+42
+
+17. Terms & Conditions Summary
+The following is a summary of key terms and conditions. Complete terms are detailed in the
+TSAChoice Managed IT Service Agreement.
+
+Contract Term and Renewal
+•
+•
+•
+•
+•
+
+Initial Term: 36 months (three years)
+Automatic annual renewal unless cancelled with 30-day written notice
+Early termination allowed for breach (30-day cure period)
+Client responsible for prorated costs of prepaid services upon early termination
+Third-party software agreements (Microsoft, Datto, etc.) must be paid in full if contract
+terminated early
+
+Scope of Services
+•
+•
+•
+•
+•
+•
+
+Services cover equipment and software in documented Local Area Networks (LAN)
+Only business equipment and software supported (no home networks or personal devices)
+Third-party support agreements required for specialized line-of-business applications
+Client must maintain equipment within 'Best Practice' guidelines as recommended by
+TSAChoice
+Equipment older than 5 years or out of warranty targeted for replacement
+Operating systems must be current and supported by manufacturer
+
+Service Exclusions
+The following are not included in standard managed services:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Projects and Moves/Adds/Changes (MAC) - quoted separately
+Network cabling and wiring infrastructure
+Home network or personal IT equipment support
+Printer and copier hardware repairs
+Damage from Acts of God, abuse, or misuse
+Issues caused by client actions or unauthorized changes
+Software/hardware at end of manufacturer support
+Compliance management services (PCI DSS scanning, formal audits - available separately)
+
+Payment Terms
+•
+•
+•
+•
+•
+•
+•
+•
+
+Monthly invoicing in advance of service period
+5% discount available for annual prepayment
+Payment due prior to beginning of service period
+Service may be suspended for accounts 45+ days past due
+Device count fluctuations adjusted monthly
+Base pricing guaranteed at minimum 80% of contracted amount
+Pricing subject to annual adjustment up to 5% for economic factors
+Vendor rate increases passed through with 90-day notice
+43
+
+TSAChoice-Owned Equipment
+For Hardware-as-a-Service offerings (firewalls, backup appliances):
+•
+•
+•
+•
+•
+•
+
+Equipment remains property of TSAChoice
+TSAChoice maintains, upgrades, or replaces equipment as needed
+No capital investment required from client
+Equipment may be removed upon contract termination
+Client responsible for physical security and environmental conditions
+Insurance requirements for equipment on client premises
+
+Limitation of Liability
+Important liability limitations:
+•
+•
+•
+•
+•
+•
+•
+
+TSAChoice liability limited to amounts paid under the agreement
+No liability for special, consequential, or indirect damages
+No liability for lost profits, lost data, or business interruption
+Client required to maintain cyber security insurance
+TSAChoice not responsible for network infiltration despite reasonable security measures
+Client responsible for remediation costs from security incidents
+SOC/SIEM and Compliance Manager subscribers receive 16 hours remediation support
+
+Non-Solicitation of Employees
+Client agrees not to hire or contract with TSAChoice employees during contract term and for one
+year after termination. Liquidated damages of 50% of employee's annual salary and benefits apply
+if breached.
+
+Client Transition and Exit
+TSAChoice is committed to professional client transitions:
+•
+•
+•
+•
+•
+•
+•
+•
+
+30-day notice required for contract termination
+Complete IT environment documentation provided in IT Glue export format
+Secure transfer of all administrative passwords and credentials
+Knowledge transfer sessions with new provider
+Orderly removal of remote monitoring agents
+Transfer of ownership for applicable cloud services
+Final account reconciliation and invoicing
+Non-disclosure agreement remains in effect post-termination
+
+Detailed exit and transition procedures are documented in Appendix C of this proposal.
+
+44
+
+Conclusion
+TSAChoice, Inc. is honored to submit this comprehensive proposal to Millar Industries
+Incorporated. With over 40 years of experience, strong local presence in Western North Carolina,
+and proven expertise in supporting manufacturing organizations, we are confident in our ability to
+serve as your trusted IT partner.
+Our proposal demonstrates:
+•
+•
+•
+•
+•
+•
+•
+•
+
+Comprehensive managed IT services covering all aspects of your technology infrastructure
+Advanced cybersecurity protection with multiple layers of defense
+Robust disaster recovery and business continuity capabilities
+Structured IT processes based on industry best practices
+Transparent reporting and communication
+Local support with rapid response capabilities
+Proven track record with similar manufacturing clients
+Commitment to proactive management and continuous improvement
+
+We understand that selecting an IT partner is a critical business decision. TSAChoice is committed
+to earning your trust through consistent, high-quality service delivery and transparent
+communication.
+We welcome the opportunity to discuss this proposal in detail, answer any questions, and conduct
+a comprehensive assessment of your IT environment to provide a customized quote.
+Thank you for considering TSAChoice, Inc. as your managed IT services provider. We look forward
+to the opportunity to support Millar Industries' continued success.
+
+Respectfully submitted,
+
+Adrienne Franklin
+Technology Consultant
+TSAChoice, Inc.
+afranklin@tsachoice.com
+828-225-3343
+
+45
+
+APPENDICES
+Appendix A: Change Management Procedures
+TSAChoice follows a structured Change Management Policy to minimize service disruptions and
+maintain system integrity.
+Purpose
+The change management process ensures all changes to IT infrastructure are properly
+documented, authorized, tested, and implemented with minimal risk to business operations.
+Change Categories
+Emergency Changes: Critical incidents or security vulnerabilities requiring immediate action.
+Expedited approval process with retrospective documentation.
+Standard Changes: Pre-approved, low-risk routine changes (security patches, password resets). No
+formal approval required, follow documented procedures.
+Normal Changes: All other changes requiring formal review and approval (infrastructure upgrades,
+application deployments, network changes).
+Change Request Requirements
+All Normal and Emergency changes must include:
+•
+•
+•
+•
+•
+•
+•
+
+Detailed description of the change and justification
+Impact assessment (systems, services, users affected)
+Proposed schedule and duration
+Resources required
+Communication plan
+Rollback procedures
+Testing and validation plan
+
+Approval Workflow
+Changes are approved based on risk level:
+•
+•
+•
+
+Low Risk: Technical Lead or Service Manager
+Medium Risk: Operations Manager or Director
+High Risk: Executive Management and Client approval
+
+Change Windows
+Preferred maintenance windows:
+•
+•
+•
+•
+
+Client Systems: After business hours or weekends (coordinated with client)
+Internal Systems: Tuesday/Thursday 6 PM - 10 PM
+Emergency Changes: As required, 24/7
+Change Freeze: No changes during major holidays or critical business periods
+46
+
+Communication Requirements
+• Advance Notice: 24-48 hours before change implementation
+• Start Notification: Confirmation when change begins
+• Completion Notice: Confirmation of successful completion or issues
+• All notifications include: what, when, why, expected impact, duration
+Documentation & Records
+All changes are documented with:
+•
+•
+•
+•
+•
+•
+•
+
+Approved change request form
+Implementation checklist
+Test results and validation
+Rollback procedures (if executed)
+Post-implementation report
+Lessons learned (for major changes)
+Records retained minimum 3 years
+
+Complete Change Management Policy available upon request.
+
+47
+
+Appendix B: Disaster Response Plan Summary
+TSAChoice maintains a comprehensive Disaster Response Plan to ensure rapid and effective
+response to various disaster scenarios.
+Disaster Response Team
+Defined team structure with clear roles:
+•
+•
+•
+•
+•
+
+Incident Commander: Overall incident coordination and decision authority
+Communications Lead: Client and stakeholder communications
+Technical Lead: Technical response coordination
+Operations Lead: Resource allocation and logistics
+Recovery Lead: Restoration and recovery operations
+
+Natural Disaster Response
+Procedures for physical disasters (hurricanes, floods, fires, power outages):
+•
+•
+•
+•
+•
+•
+•
+•
+
+Personnel safety first - evacuate if necessary
+Assess scope of disaster and impacted systems
+Activate backup systems and failover procedures
+Establish alternative command center if needed
+Deploy mobile equipment for emergency connectivity
+Regular client updates every 4-6 hours
+Systematic service restoration prioritized by business criticality
+Post-incident review within 7 days
+
+Data Loss Response
+Immediate response procedures (0-1 hour):
+•
+•
+•
+•
+•
+
+Log incident with timestamp and details
+Assess scope and business impact
+Isolate affected systems to prevent further loss
+Identify most recent backup and verify integrity
+Calculate recovery time objective
+
+Recovery procedures:
+•
+•
+•
+•
+
+Restore to staging environment first for validation
+Execute production restore during approved window
+Verify successful restore with client
+Data recovery specialist engagement if backup unavailable
+
+48
+
+Ransomware Attack Response
+Critical immediate response (0-30 minutes):
+•
+•
+•
+•
+•
+•
+
+DO NOT turn off systems immediately (may trigger deletion)
+Isolate affected systems from network
+Disable all remote access (VPN, RDP)
+Full Disaster Response Team activation
+Take screenshots of ransom note
+Document timeline of all actions
+
+Containment phase (30 minutes - 4 hours):
+•
+•
+•
+•
+•
+•
+•
+
+Change all administrative passwords immediately
+Disable compromised user accounts
+Verify backup systems are NOT compromised
+Scan all systems with updated antimalware
+Identify initial infection vector
+Notify cyber insurance provider
+Engage external cybersecurity firm if needed
+
+TSAChoice Policy: We do NOT recommend paying ransoms. Recovery proceeds via clean backups
+and system rebuilding. Each situation evaluated based on client impact, backup availability, and
+business requirements.
+Post-Incident Security Hardening
+• Full security audit of client environment
+• Strengthen email filtering and anti-phishing controls
+• Enforce MFA on all administrative accounts
+• Network segmentation to limit lateral movement
+• Review and restrict remote access policies
+• Increase backup frequency and verify air-gapped backups
+• Upgrade EDR solutions
+• Conduct security awareness training for all staff
+Plan Testing and Maintenance
+• Semi-annual disaster recovery testing for critical systems
+• Annual complete plan review and update
+• Immediate review after any actual incident
+• Quarterly training for Disaster Response Team
+• Regular update of contact information and procedures
+Complete Disaster Response Plan available upon request.
+
+49
+
+Appendix C: Client Exit and Transition Procedures
+TSAChoice is committed to professional and transparent client transitions, ensuring minimal
+disruption to business operations.
+Transition Philosophy
+We recognize that business needs change. Our goal during any transition is to:
+•
+•
+•
+•
+•
+
+Facilitate smooth transition with minimal disruption
+Provide complete and accurate documentation
+Ensure secure transfer of all credentials and access rights
+Maintain confidentiality and data security
+Act in good faith to support client's future success
+
+Notification Requirements
+• Minimum 30 days written notice for managed services customers
+• Emergency situations: Minimum 15 days notice (additional fees may apply)
+• Notice must be provided in writing via email to itsupport@tsachoice.com
+Transition Timeline
+Standard 30-day transition process:
+•
+•
+•
+•
+
+Week 1: Initiation Phase - Kickoff meeting, identify new provider, review contract terms, create
+transition plan
+Weeks 2-3: Documentation Phase - Export IT environment documentation, compile asset
+inventory, document services and subscriptions
+Weeks 3-4: Knowledge Transfer Phase - Transfer sessions with new provider, review critical
+systems, transfer passwords and credentials
+Final Week: Disengagement Phase - Final verification, remove TSAChoice access, transfer cloud
+services, cancel subscriptions, final invoicing
+
+Documentation Package
+Complete documentation provided includes:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+IT Glue organization export (PDF and CSV format)
+Network diagrams and topology maps
+Server and workstation inventory
+Password and credential documentation (secure transfer)
+Software licensing information
+Configuration documentation
+IP address schemes and VLAN configurations
+Firewall rules and security policies
+Active Directory structure and policies
+Backup procedures and disaster recovery plans
+
+50
+
+Credential Transfer Process
+• All credentials transferred via secure encrypted method
+• Client acknowledges receipt of all credentials
+• Administrative passwords should be changed immediately after transfer
+• Service account credentials documented with purpose and scope
+Service Termination
+• RMM agents uninstalled from all endpoints (with notification)
+• Monitoring and alerting cease on final day of service
+• No remote access capabilities remain after transition
+• Cloud service ownership transferred
+• Billing updated to client or new provider
+• All outstanding invoices must be paid
+• Final invoice includes any transition support hours
+Client Responsibilities
+• Designate primary transition contact person
+• Provide new MSP contact information
+• Attend scheduled transition meetings
+• Review and verify documentation provided
+• Test access to credentials provided
+• Settle all outstanding financial obligations
+• Provide feedback on transition process
+Complete Client Exit and Transition Readiness document available upon request.
+
+51
+
+Contact Information
+For questions regarding this proposal or to schedule a consultation:
+TSAChoice, Inc.
+1 Vance Gap Road
+Asheville, NC 28805
+
+Adrienne Franklin
+Technology Consultant
+TSAChoice, Inc.
+
+www.tsachoice.com
+
+Email: afranklin@tsachoice.com
+
+Support Email: itsupport@tsachoice.com
+Support Phone: 1-800-264-6878
+
+Direct: 828-225-3343
+
+This proposal is valid for 30 days from the date of submission.
+Confidential and Proprietary - For Use by Millar Industries Only
+
+52
+
+

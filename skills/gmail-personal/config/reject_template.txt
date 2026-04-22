@@ -1,0 +1,1 @@
+Analysis Template - This script only analyzes and logs job rejects.
